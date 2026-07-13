@@ -1,0 +1,3555 @@
+[
+  {
+    "number": 193,
+    "title": "Release v26.7.0",
+    "state": "closed",
+    "created_at": "2026-07-01T10:48:51+00:00",
+    "updated_at": "2026-07-01T11:01:32+00:00",
+    "closed_at": "2026-07-01T10:59:30+00:00",
+    "merged_at": "2026-07-01T10:59:30+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/193",
+    "additions": 11,
+    "deletions": 4,
+    "changed_files": 3,
+    "comments": 0,
+    "review_comments": 1,
+    "commits": 2
+  },
+  {
+    "number": 192,
+    "title": "Fix crash when slicing 3MF files without vertex normals",
+    "state": "closed",
+    "created_at": "2026-07-01T04:39:44+00:00",
+    "updated_at": "2026-07-01T10:27:19+00:00",
+    "closed_at": "2026-07-01T10:27:15+00:00",
+    "merged_at": "2026-07-01T10:27:15+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/192",
+    "additions": 77,
+    "deletions": 1,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 2,
+    "commits": 4
+  },
+  {
+    "number": 190,
+    "title": "Release v26.4.0",
+    "state": "closed",
+    "created_at": "2026-04-19T04:55:10+00:00",
+    "updated_at": "2026-04-19T18:03:11+00:00",
+    "closed_at": "2026-04-19T18:02:33+00:00",
+    "merged_at": "2026-04-19T18:02:33+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/190",
+    "additions": 36,
+    "deletions": 24,
+    "changed_files": 3,
+    "comments": 0,
+    "review_comments": 1,
+    "commits": 2
+  },
+  {
+    "number": 189,
+    "title": "Add support configuration options: supportGap, supportDensity, and tree support settings",
+    "state": "closed",
+    "created_at": "2026-04-17T10:03:05+00:00",
+    "updated_at": "2026-04-17T15:35:18+00:00",
+    "closed_at": "2026-04-17T15:35:15+00:00",
+    "merged_at": "2026-04-17T15:35:15+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/189",
+    "additions": 893,
+    "deletions": 149,
+    "changed_files": 13,
+    "comments": 6,
+    "review_comments": 12,
+    "commits": 6
+  },
+  {
+    "number": 188,
+    "title": "Release v26.3.1",
+    "state": "closed",
+    "created_at": "2026-03-14T03:42:47+00:00",
+    "updated_at": "2026-03-14T04:06:36+00:00",
+    "closed_at": "2026-03-14T04:05:07+00:00",
+    "merged_at": "2026-03-14T04:05:07+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/188",
+    "additions": 35,
+    "deletions": 4,
+    "changed_files": 3,
+    "comments": 0,
+    "review_comments": 1,
+    "commits": 3
+  },
+  {
+    "number": 187,
+    "title": "Fix dome zenith skin infill suppressed by hole paths misclassified as covered regions",
+    "state": "closed",
+    "created_at": "2026-03-13T08:23:06+00:00",
+    "updated_at": "2026-03-13T09:34:29+00:00",
+    "closed_at": "2026-03-13T09:34:26+00:00",
+    "merged_at": "2026-03-13T09:34:26+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/187",
+    "additions": 167,
+    "deletions": 24,
+    "changed_files": 14,
+    "comments": 2,
+    "review_comments": 4,
+    "commits": 4
+  },
+  {
+    "number": 186,
+    "title": "fix: correct package.json require path in codeMetadata (version always \"Unknown\")",
+    "state": "closed",
+    "created_at": "2026-03-13T06:40:46+00:00",
+    "updated_at": "2026-03-13T07:02:10+00:00",
+    "closed_at": "2026-03-13T07:02:07+00:00",
+    "merged_at": "2026-03-13T07:02:07+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/186",
+    "additions": 5,
+    "deletions": 26,
+    "changed_files": 3,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 2
+  },
+  {
+    "number": 185,
+    "title": "Visualizer: keep models centered on the build plate across load, rotation, and printer changes",
+    "state": "closed",
+    "created_at": "2026-03-13T06:29:49+00:00",
+    "updated_at": "2026-03-13T07:35:39+00:00",
+    "closed_at": "2026-03-13T07:35:36+00:00",
+    "merged_at": "2026-03-13T07:35:36+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/185",
+    "additions": 200,
+    "deletions": 18,
+    "changed_files": 4,
+    "comments": 2,
+    "review_comments": 3,
+    "commits": 4
+  },
+  {
+    "number": 184,
+    "title": "Persist lil-gui folder open/closed states and improve reset icon UX in visualizer",
+    "state": "closed",
+    "created_at": "2026-03-09T11:11:32+00:00",
+    "updated_at": "2026-03-09T11:49:43+00:00",
+    "closed_at": "2026-03-09T11:49:40+00:00",
+    "merged_at": "2026-03-09T11:49:40+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/184",
+    "additions": 104,
+    "deletions": 8,
+    "changed_files": 5,
+    "comments": 4,
+    "review_comments": 4,
+    "commits": 4
+  },
+  {
+    "number": 183,
+    "title": "Release v26.3.0",
+    "state": "closed",
+    "created_at": "2026-03-08T15:00:13+00:00",
+    "updated_at": "2026-03-09T06:32:42+00:00",
+    "closed_at": "2026-03-09T06:32:39+00:00",
+    "merged_at": "2026-03-09T06:32:39+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/183",
+    "additions": 98,
+    "deletions": 21,
+    "changed_files": 5,
+    "comments": 0,
+    "review_comments": 2,
+    "commits": 3
+  },
+  {
+    "number": 182,
+    "title": "Fix: small covered regions (e.g. lego studs) not detected as fully covered on transition layers",
+    "state": "closed",
+    "created_at": "2026-03-08T04:41:01+00:00",
+    "updated_at": "2026-03-08T07:51:35+00:00",
+    "closed_at": "2026-03-08T07:51:32+00:00",
+    "merged_at": "2026-03-08T07:51:32+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/182",
+    "additions": 455,
+    "deletions": 350,
+    "changed_files": 175,
+    "comments": 2,
+    "review_comments": 4,
+    "commits": 4
+  },
+  {
+    "number": 181,
+    "title": "Fix sequential printing for sibling nested structures at the same nesting level",
+    "state": "closed",
+    "created_at": "2026-03-07T06:25:09+00:00",
+    "updated_at": "2026-03-07T09:43:53+00:00",
+    "closed_at": "2026-03-07T09:43:50+00:00",
+    "merged_at": "2026-03-07T09:43:50+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/181",
+    "additions": 422,
+    "deletions": 163,
+    "changed_files": 25,
+    "comments": 4,
+    "review_comments": 5,
+    "commits": 7
+  },
+  {
+    "number": 180,
+    "title": "Enhance tree support `buildPlate` mode to reach overhangs blocked from below via trunk relocation and relaxed branch checks",
+    "state": "closed",
+    "created_at": "2026-03-06T05:52:09+00:00",
+    "updated_at": "2026-03-06T08:22:55+00:00",
+    "closed_at": "2026-03-06T08:22:50+00:00",
+    "merged_at": "2026-03-06T08:22:50+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/180",
+    "additions": 757,
+    "deletions": 19,
+    "changed_files": 4,
+    "comments": 2,
+    "review_comments": 1,
+    "commits": 5
+  },
+  {
+    "number": 179,
+    "title": "Fix lego brick bottom-layer skin infill non-parallel lines issue",
+    "state": "closed",
+    "created_at": "2026-03-05T09:17:15+00:00",
+    "updated_at": "2026-03-06T09:17:39+00:00",
+    "closed_at": "2026-03-06T09:17:36+00:00",
+    "merged_at": "2026-03-06T09:17:36+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/179",
+    "additions": 324,
+    "deletions": 282,
+    "changed_files": 114,
+    "comments": 6,
+    "review_comments": 3,
+    "commits": 7
+  },
+  {
+    "number": 178,
+    "title": "Add roots component to tree support for improved base stability",
+    "state": "closed",
+    "created_at": "2026-03-05T06:09:24+00:00",
+    "updated_at": "2026-03-05T14:22:29+00:00",
+    "closed_at": "2026-03-05T14:22:25+00:00",
+    "merged_at": "2026-03-05T14:22:25+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/178",
+    "additions": 579,
+    "deletions": 33,
+    "changed_files": 10,
+    "comments": 8,
+    "review_comments": 3,
+    "commits": 11
+  },
+  {
+    "number": 177,
+    "title": "Fix orphaned twig segments and strengthen twig/branch joint in tree support generation",
+    "state": "closed",
+    "created_at": "2026-03-04T12:50:13+00:00",
+    "updated_at": "2026-03-05T05:46:08+00:00",
+    "closed_at": "2026-03-05T05:46:05+00:00",
+    "merged_at": "2026-03-05T05:46:05+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/177",
+    "additions": 115,
+    "deletions": 23,
+    "changed_files": 6,
+    "comments": 4,
+    "review_comments": 3,
+    "commits": 4
+  },
+  {
+    "number": 176,
+    "title": "Optimize raft adhesion: separate rafts per contact region, shrink default margin",
+    "state": "closed",
+    "created_at": "2026-03-04T06:37:55+00:00",
+    "updated_at": "2026-03-04T10:37:32+00:00",
+    "closed_at": "2026-03-04T10:37:28+00:00",
+    "merged_at": "2026-03-04T10:37:28+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/176",
+    "additions": 275,
+    "deletions": 33,
+    "changed_files": 9,
+    "comments": 4,
+    "review_comments": 2,
+    "commits": 5
+  },
+  {
+    "number": 175,
+    "title": "Fix sphere pole layers generating full-circle skin instead of ring skin + center infill",
+    "state": "closed",
+    "created_at": "2026-03-04T06:12:20+00:00",
+    "updated_at": "2026-03-04T08:48:16+00:00",
+    "closed_at": "2026-03-04T08:48:13+00:00",
+    "merged_at": "2026-03-04T08:48:13+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/175",
+    "additions": 240,
+    "deletions": 157,
+    "changed_files": 79,
+    "comments": 2,
+    "review_comments": 3,
+    "commits": 4
+  },
+  {
+    "number": 174,
+    "title": "Fix failing tests after three-mesh-bvh upgrade to ^0.9.9",
+    "state": "closed",
+    "created_at": "2026-03-04T05:35:29+00:00",
+    "updated_at": "2026-03-04T06:11:08+00:00",
+    "closed_at": "2026-03-04T06:11:05+00:00",
+    "merged_at": "2026-03-04T06:11:05+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/174",
+    "additions": 69,
+    "deletions": 173,
+    "changed_files": 2,
+    "comments": 4,
+    "review_comments": 3,
+    "commits": 4
+  },
+  {
+    "number": 173,
+    "title": "Fix oversized skin infill gap at covered area (fully-covered region) skin wall",
+    "state": "closed",
+    "created_at": "2026-03-03T10:19:13+00:00",
+    "updated_at": "2026-03-03T12:43:16+00:00",
+    "closed_at": "2026-03-03T12:43:12+00:00",
+    "merged_at": "2026-03-03T12:43:12+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/173",
+    "additions": 394,
+    "deletions": 216,
+    "changed_files": 100,
+    "comments": 2,
+    "review_comments": 3,
+    "commits": 6
+  },
+  {
+    "number": 172,
+    "title": "Revamp tree support: anatomically-correct trunk \u2192 branch \u2192 twig structure at \u226445\u00b0 with circular cross-sections",
+    "state": "closed",
+    "created_at": "2026-03-03T07:02:56+00:00",
+    "updated_at": "2026-03-03T12:01:45+00:00",
+    "closed_at": "2026-03-03T12:01:39+00:00",
+    "merged_at": "2026-03-03T12:01:39+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/172",
+    "additions": 628,
+    "deletions": 170,
+    "changed_files": 6,
+    "comments": 4,
+    "review_comments": 5,
+    "commits": 7
+  },
+  {
+    "number": 171,
+    "title": "Sequential skin printing for nested objects (matryoshka)",
+    "state": "closed",
+    "created_at": "2026-03-03T06:28:25+00:00",
+    "updated_at": "2026-03-03T10:49:49+00:00",
+    "closed_at": "2026-03-03T10:49:46+00:00",
+    "merged_at": "2026-03-03T10:49:46+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/171",
+    "additions": 645,
+    "deletions": 103,
+    "changed_files": 25,
+    "comments": 6,
+    "review_comments": 7,
+    "commits": 8
+  },
+  {
+    "number": 170,
+    "title": "Sequential wall printing for nested (matryoshka) objects",
+    "state": "closed",
+    "created_at": "2026-03-02T11:14:12+00:00",
+    "updated_at": "2026-03-02T14:31:47+00:00",
+    "closed_at": "2026-03-02T14:31:44+00:00",
+    "merged_at": "2026-03-02T14:31:44+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/170",
+    "additions": 289,
+    "deletions": 146,
+    "changed_files": 12,
+    "comments": 1,
+    "review_comments": 6,
+    "commits": 5
+  },
+  {
+    "number": 169,
+    "title": "Improve lightning infill: asymmetric fork positions and zig-zag kinks",
+    "state": "closed",
+    "created_at": "2026-03-02T08:10:34+00:00",
+    "updated_at": "2026-03-02T09:22:19+00:00",
+    "closed_at": "2026-03-02T09:22:16+00:00",
+    "merged_at": "2026-03-02T09:22:16+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/169",
+    "additions": 277,
+    "deletions": 122,
+    "changed_files": 52,
+    "comments": 1,
+    "review_comments": 10,
+    "commits": 4
+  },
+  {
+    "number": 168,
+    "title": "Fix case-insensitive input handling for all string setters in accessors",
+    "state": "closed",
+    "created_at": "2026-03-01T10:25:41+00:00",
+    "updated_at": "2026-03-02T08:35:14+00:00",
+    "closed_at": "2026-03-02T08:35:07+00:00",
+    "merged_at": "2026-03-02T08:35:07+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/168",
+    "additions": 150,
+    "deletions": 30,
+    "changed_files": 16,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 3
+  },
+  {
+    "number": 167,
+    "title": "Fix concentric infill generating inside holes (dome/cavity cross-sections)",
+    "state": "closed",
+    "created_at": "2026-03-01T10:02:03+00:00",
+    "updated_at": "2026-03-01T11:26:54+00:00",
+    "closed_at": "2026-03-01T11:26:51+00:00",
+    "merged_at": "2026-03-01T11:26:51+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/167",
+    "additions": 250,
+    "deletions": 80,
+    "changed_files": 2,
+    "comments": 1,
+    "review_comments": 8,
+    "commits": 4
+  },
+  {
+    "number": 166,
+    "title": "Fix fully covered region detection for inverted pyramid shapes",
+    "state": "closed",
+    "created_at": "2026-02-28T11:27:45+00:00",
+    "updated_at": "2026-02-28T17:04:58+00:00",
+    "closed_at": "2026-02-28T17:04:55+00:00",
+    "merged_at": "2026-02-28T17:04:55+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/166",
+    "additions": 369,
+    "deletions": 234,
+    "changed_files": 87,
+    "comments": 1,
+    "review_comments": 6,
+    "commits": 5
+  },
+  {
+    "number": 165,
+    "title": "Fix smart wipe nozzle never activating during slicing",
+    "state": "closed",
+    "created_at": "2026-02-28T06:56:41+00:00",
+    "updated_at": "2026-02-28T07:54:27+00:00",
+    "closed_at": "2026-02-28T07:54:24+00:00",
+    "merged_at": "2026-02-28T07:54:24+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/165",
+    "additions": 213,
+    "deletions": 143,
+    "changed_files": 72,
+    "comments": 0,
+    "review_comments": 4,
+    "commits": 4
+  },
+  {
+    "number": 164,
+    "title": "fix: restore gizmo visibility on first model click",
+    "state": "closed",
+    "created_at": "2026-02-28T06:38:41+00:00",
+    "updated_at": "2026-02-28T07:19:46+00:00",
+    "closed_at": "2026-02-28T07:19:43+00:00",
+    "merged_at": "2026-02-28T07:19:43+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/164",
+    "additions": 5,
+    "deletions": 3,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 2
+  },
+  {
+    "number": 163,
+    "title": "Release v26.2.2",
+    "state": "closed",
+    "created_at": "2026-02-27T10:40:08+00:00",
+    "updated_at": "2026-02-27T11:15:36+00:00",
+    "closed_at": "2026-02-27T11:13:32+00:00",
+    "merged_at": "2026-02-27T11:13:32+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/163",
+    "additions": 51,
+    "deletions": 4,
+    "changed_files": 3,
+    "comments": 4,
+    "review_comments": 1,
+    "commits": 4
+  },
+  {
+    "number": 162,
+    "title": "Add model rotation controls to visualizer slicing GUI with TransformControls gizmo",
+    "state": "closed",
+    "created_at": "2026-02-27T06:51:52+00:00",
+    "updated_at": "2026-02-27T10:39:19+00:00",
+    "closed_at": "2026-02-27T10:39:16+00:00",
+    "merged_at": "2026-02-27T10:39:16+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/162",
+    "additions": 188,
+    "deletions": 11,
+    "changed_files": 3,
+    "comments": 10,
+    "review_comments": 5,
+    "commits": 10
+  },
+  {
+    "number": 161,
+    "title": "Fix unexpected skin patch generation after infill update",
+    "state": "closed",
+    "created_at": "2026-02-26T13:23:08+00:00",
+    "updated_at": "2026-02-27T09:52:11+00:00",
+    "closed_at": "2026-02-27T09:52:07+00:00",
+    "merged_at": "2026-02-27T09:52:07+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/161",
+    "additions": 408,
+    "deletions": 406,
+    "changed_files": 194,
+    "comments": 10,
+    "review_comments": 5,
+    "commits": 11
+  },
+  {
+    "number": 160,
+    "title": "Fix wall endpoints extending beyond expected position",
+    "state": "closed",
+    "created_at": "2026-02-26T12:41:57+00:00",
+    "updated_at": "2026-02-26T14:27:52+00:00",
+    "closed_at": "2026-02-26T14:27:48+00:00",
+    "merged_at": "2026-02-26T14:27:48+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/160",
+    "additions": 296,
+    "deletions": 188,
+    "changed_files": 96,
+    "comments": 4,
+    "review_comments": 2,
+    "commits": 4
+  },
+  {
+    "number": 159,
+    "title": "Add Adhesion, Support, and additional print settings to visualizer slicing GUI; fix camera refocus on repeated uploads",
+    "state": "closed",
+    "created_at": "2026-02-26T07:56:53+00:00",
+    "updated_at": "2026-02-26T11:01:31+00:00",
+    "closed_at": "2026-02-26T11:01:28+00:00",
+    "merged_at": "2026-02-26T11:01:28+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/159",
+    "additions": 73,
+    "deletions": 14,
+    "changed_files": 5,
+    "comments": 10,
+    "review_comments": 3,
+    "commits": 6
+  },
+  {
+    "number": 158,
+    "title": "Fix jagged inner wall spikes from near-backtracking vertices in createInsetPath",
+    "state": "closed",
+    "created_at": "2026-02-26T07:01:48+00:00",
+    "updated_at": "2026-02-26T10:57:08+00:00",
+    "closed_at": "2026-02-26T10:57:05+00:00",
+    "merged_at": "2026-02-26T10:57:05+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/158",
+    "additions": 359,
+    "deletions": 248,
+    "changed_files": 118,
+    "comments": 4,
+    "review_comments": 5,
+    "commits": 8
+  },
+  {
+    "number": 157,
+    "title": "Fix jagged inner wall movements in sideways dome example",
+    "state": "closed",
+    "created_at": "2026-02-25T11:50:43+00:00",
+    "updated_at": "2026-02-26T06:52:38+00:00",
+    "closed_at": "2026-02-26T06:49:45+00:00",
+    "merged_at": null,
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/157",
+    "additions": 153,
+    "deletions": 41,
+    "changed_files": 4,
+    "comments": 5,
+    "review_comments": 0,
+    "commits": 4
+  },
+  {
+    "number": 156,
+    "title": "Fix missing infill with global centering in grid, triangles, and spiral patterns",
+    "state": "closed",
+    "created_at": "2026-02-25T10:47:02+00:00",
+    "updated_at": "2026-02-26T07:19:09+00:00",
+    "closed_at": "2026-02-26T07:19:06+00:00",
+    "merged_at": "2026-02-26T07:19:06+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/156",
+    "additions": 401,
+    "deletions": 125,
+    "changed_files": 80,
+    "comments": 6,
+    "review_comments": 1,
+    "commits": 6
+  },
+  {
+    "number": 155,
+    "title": "Investigate and add regression guards for regular infill extending beyond inner wall boundaries",
+    "state": "closed",
+    "created_at": "2026-02-25T08:17:34+00:00",
+    "updated_at": "2026-02-25T10:14:40+00:00",
+    "closed_at": "2026-02-25T10:14:36+00:00",
+    "merged_at": "2026-02-25T10:14:36+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/155",
+    "additions": 86,
+    "deletions": 3,
+    "changed_files": 1,
+    "comments": 1,
+    "review_comments": 8,
+    "commits": 3
+  },
+  {
+    "number": 154,
+    "title": "Fix spurious skin walls on flipped arch transition layers",
+    "state": "closed",
+    "created_at": "2026-02-25T06:19:35+00:00",
+    "updated_at": "2026-02-25T08:10:37+00:00",
+    "closed_at": "2026-02-25T08:10:34+00:00",
+    "merged_at": "2026-02-25T08:10:34+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/154",
+    "additions": 114,
+    "deletions": 30,
+    "changed_files": 17,
+    "comments": 1,
+    "review_comments": 5,
+    "commits": 5
+  },
+  {
+    "number": 153,
+    "title": "Fix skin infill lines extending beyond skin wall boundary and remove redundant G0 moves",
+    "state": "closed",
+    "created_at": "2026-02-23T08:29:02+00:00",
+    "updated_at": "2026-02-23T11:29:53+00:00",
+    "closed_at": "2026-02-23T11:29:50+00:00",
+    "merged_at": "2026-02-23T11:29:50+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/153",
+    "additions": 911,
+    "deletions": 807,
+    "changed_files": 403,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 5
+  },
+  {
+    "number": 152,
+    "title": "Fix missing WALL-INNER and FILL/SKIN on layers with C-shaped cross-sections (sideways dome)",
+    "state": "closed",
+    "created_at": "2026-02-23T07:53:18+00:00",
+    "updated_at": "2026-02-24T14:30:11+00:00",
+    "closed_at": "2026-02-24T14:30:08+00:00",
+    "merged_at": "2026-02-24T14:30:07+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/152",
+    "additions": 473,
+    "deletions": 389,
+    "changed_files": 176,
+    "comments": 4,
+    "review_comments": 4,
+    "commits": 10
+  },
+  {
+    "number": 151,
+    "title": "Implement tree support type with convergence algorithm",
+    "state": "closed",
+    "created_at": "2026-02-22T08:44:09+00:00",
+    "updated_at": "2026-02-22T16:53:29+00:00",
+    "closed_at": "2026-02-22T16:53:26+00:00",
+    "merged_at": "2026-02-22T16:53:26+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/151",
+    "additions": 623,
+    "deletions": 116,
+    "changed_files": 20,
+    "comments": 1,
+    "review_comments": 11,
+    "commits": 3
+  },
+  {
+    "number": 150,
+    "title": "Add torus and arch examples to slice-adhesion script",
+    "state": "closed",
+    "created_at": "2026-02-21T16:05:13+00:00",
+    "updated_at": "2026-02-21T16:29:29+00:00",
+    "closed_at": "2026-02-21T16:29:26+00:00",
+    "merged_at": "2026-02-21T16:29:26+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/150",
+    "additions": 34,
+    "deletions": 14,
+    "changed_files": 11,
+    "comments": 0,
+    "review_comments": 1,
+    "commits": 3
+  },
+  {
+    "number": 149,
+    "title": "Fix support generation to only fill wedge-shaped area below slanted overhangs",
+    "state": "closed",
+    "created_at": "2026-02-21T10:05:21+00:00",
+    "updated_at": "2026-02-21T11:05:32+00:00",
+    "closed_at": "2026-02-21T11:05:30+00:00",
+    "merged_at": "2026-02-21T11:05:30+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/149",
+    "additions": 185,
+    "deletions": 35,
+    "changed_files": 18,
+    "comments": 1,
+    "review_comments": 2,
+    "commits": 4
+  },
+  {
+    "number": 148,
+    "title": "Fix support structures incorrectly generated on first layer despite blocking geometry",
+    "state": "closed",
+    "created_at": "2026-02-20T07:47:25+00:00",
+    "updated_at": "2026-02-20T09:12:10+00:00",
+    "closed_at": "2026-02-20T09:12:07+00:00",
+    "merged_at": "2026-02-20T09:12:07+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/148",
+    "additions": 123,
+    "deletions": 53,
+    "changed_files": 19,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 2
+  },
+  {
+    "number": 147,
+    "title": "Prepare v26.2.1 release",
+    "state": "closed",
+    "created_at": "2026-02-19T10:59:17+00:00",
+    "updated_at": "2026-02-19T11:28:32+00:00",
+    "closed_at": "2026-02-19T11:25:27+00:00",
+    "merged_at": "2026-02-19T11:25:27+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/147",
+    "additions": 45,
+    "deletions": 11,
+    "changed_files": 3,
+    "comments": 0,
+    "review_comments": 3,
+    "commits": 5
+  },
+  {
+    "number": 146,
+    "title": "Revamp support generation: face-based grouping with sub-module architecture",
+    "state": "closed",
+    "created_at": "2026-02-17T08:01:59+00:00",
+    "updated_at": "2026-02-19T10:52:00+00:00",
+    "closed_at": "2026-02-19T10:51:56+00:00",
+    "merged_at": "2026-02-19T10:51:56+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/146",
+    "additions": 1119,
+    "deletions": 351,
+    "changed_files": 27,
+    "comments": 10,
+    "review_comments": 7,
+    "commits": 23
+  },
+  {
+    "number": 145,
+    "title": "Fix missing structure skin walls on exposure-detected layers",
+    "state": "closed",
+    "created_at": "2026-02-17T07:20:09+00:00",
+    "updated_at": "2026-02-17T09:45:02+00:00",
+    "closed_at": "2026-02-17T09:44:58+00:00",
+    "merged_at": "2026-02-17T09:44:58+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/145",
+    "additions": 197,
+    "deletions": 196,
+    "changed_files": 96,
+    "comments": 4,
+    "review_comments": 0,
+    "commits": 8
+  },
+  {
+    "number": 144,
+    "title": "Prepare v26.2.0 release (February 2026)",
+    "state": "closed",
+    "created_at": "2026-02-14T04:39:04+00:00",
+    "updated_at": "2026-02-14T05:12:45+00:00",
+    "closed_at": "2026-02-14T05:12:42+00:00",
+    "merged_at": "2026-02-14T05:12:42+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/144",
+    "additions": 41,
+    "deletions": 11,
+    "changed_files": 3,
+    "comments": 0,
+    "review_comments": 5,
+    "commits": 9
+  },
+  {
+    "number": 143,
+    "title": "Fix gyroid infill to use single rotating direction per layer",
+    "state": "closed",
+    "created_at": "2026-02-13T08:41:40+00:00",
+    "updated_at": "2026-02-14T04:37:59+00:00",
+    "closed_at": "2026-02-14T04:37:57+00:00",
+    "merged_at": "2026-02-14T04:37:56+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/143",
+    "additions": 335,
+    "deletions": 127,
+    "changed_files": 55,
+    "comments": 4,
+    "review_comments": 6,
+    "commits": 7
+  },
+  {
+    "number": 142,
+    "title": "Fix concentric infill: respect holes and maintain wall gap",
+    "state": "closed",
+    "created_at": "2026-02-13T08:34:05+00:00",
+    "updated_at": "2026-02-13T10:31:16+00:00",
+    "closed_at": "2026-02-13T10:31:12+00:00",
+    "merged_at": "2026-02-13T10:31:12+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/142",
+    "additions": 227,
+    "deletions": 102,
+    "changed_files": 53,
+    "comments": 1,
+    "review_comments": 6,
+    "commits": 9
+  },
+  {
+    "number": 141,
+    "title": "Add Lightning infill pattern with tree-like branching structure",
+    "state": "closed",
+    "created_at": "2026-02-09T04:13:33+00:00",
+    "updated_at": "2026-02-11T09:28:54+00:00",
+    "closed_at": "2026-02-11T09:28:50+00:00",
+    "merged_at": "2026-02-11T09:28:50+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/141",
+    "additions": 761,
+    "deletions": 21,
+    "changed_files": 63,
+    "comments": 1,
+    "review_comments": 12,
+    "commits": 9
+  },
+  {
+    "number": 140,
+    "title": "[WIP] Investigation: Support generation for side-opening cavity surfaces in buildPlate mode",
+    "state": "closed",
+    "created_at": "2026-02-08T08:43:31+00:00",
+    "updated_at": "2026-02-11T09:29:30+00:00",
+    "closed_at": "2026-02-10T09:38:17+00:00",
+    "merged_at": null,
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/140",
+    "additions": 90,
+    "deletions": 15,
+    "changed_files": 3,
+    "comments": 4,
+    "review_comments": 0,
+    "commits": 8
+  },
+  {
+    "number": 139,
+    "title": "Fix incomplete circular walls on first layer by adjusting slice epsilon",
+    "state": "closed",
+    "created_at": "2026-02-07T07:48:03+00:00",
+    "updated_at": "2026-02-08T04:24:24+00:00",
+    "closed_at": "2026-02-08T04:24:21+00:00",
+    "merged_at": "2026-02-08T04:24:21+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/139",
+    "additions": 21,
+    "deletions": 13,
+    "changed_files": 3,
+    "comments": 1,
+    "review_comments": 5,
+    "commits": 5
+  },
+  {
+    "number": 138,
+    "title": "Fix CI: remove unused eslint-plugin-jest dependency",
+    "state": "closed",
+    "created_at": "2026-02-07T06:59:07+00:00",
+    "updated_at": "2026-02-07T07:46:20+00:00",
+    "closed_at": "2026-02-07T07:46:17+00:00",
+    "merged_at": "2026-02-07T07:46:17+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/138",
+    "additions": 267,
+    "deletions": 555,
+    "changed_files": 2,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 3
+  },
+  {
+    "number": 137,
+    "title": "Add spiral infill pattern with Archimedean spiral generation",
+    "state": "closed",
+    "created_at": "2026-02-07T06:51:33+00:00",
+    "updated_at": "2026-02-08T04:52:38+00:00",
+    "closed_at": "2026-02-08T04:52:35+00:00",
+    "merged_at": "2026-02-08T04:52:35+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/137",
+    "additions": 601,
+    "deletions": 32,
+    "changed_files": 64,
+    "comments": 1,
+    "review_comments": 4,
+    "commits": 5
+  },
+  {
+    "number": 136,
+    "title": "Add gyroid infill pattern for improved isotropic strength",
+    "state": "closed",
+    "created_at": "2026-02-06T11:27:38+00:00",
+    "updated_at": "2026-02-06T15:42:41+00:00",
+    "closed_at": "2026-02-06T15:42:38+00:00",
+    "merged_at": "2026-02-06T15:42:38+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/136",
+    "additions": 757,
+    "deletions": 17,
+    "changed_files": 63,
+    "comments": 6,
+    "review_comments": 16,
+    "commits": 5
+  },
+  {
+    "number": 135,
+    "title": "Fix extrusion during travel between skin areas in nested structures",
+    "state": "closed",
+    "created_at": "2026-02-06T10:17:13+00:00",
+    "updated_at": "2026-02-06T12:01:38+00:00",
+    "closed_at": "2026-02-06T12:01:35+00:00",
+    "merged_at": "2026-02-06T12:01:34+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/135",
+    "additions": 236,
+    "deletions": 123,
+    "changed_files": 63,
+    "comments": 0,
+    "review_comments": 3,
+    "commits": 5
+  },
+  {
+    "number": 134,
+    "title": "Add concentric infill pattern",
+    "state": "closed",
+    "created_at": "2026-02-06T09:54:46+00:00",
+    "updated_at": "2026-02-06T11:26:23+00:00",
+    "closed_at": "2026-02-06T11:26:19+00:00",
+    "merged_at": "2026-02-06T11:26:19+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/134",
+    "additions": 581,
+    "deletions": 31,
+    "changed_files": 65,
+    "comments": 2,
+    "review_comments": 10,
+    "commits": 9
+  },
+  {
+    "number": 133,
+    "title": "Extend sequential completion to nested objects",
+    "state": "closed",
+    "created_at": "2026-02-04T10:16:54+00:00",
+    "updated_at": "2026-02-05T11:15:57+00:00",
+    "closed_at": "2026-02-05T11:09:08+00:00",
+    "merged_at": null,
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/133",
+    "additions": 622,
+    "deletions": 494,
+    "changed_files": 177,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 4
+  },
+  {
+    "number": 132,
+    "title": "Add configurable infill pattern centering mode",
+    "state": "closed",
+    "created_at": "2026-02-04T09:16:18+00:00",
+    "updated_at": "2026-02-05T12:22:34+00:00",
+    "closed_at": "2026-02-05T12:22:31+00:00",
+    "merged_at": "2026-02-05T12:22:30+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/132",
+    "additions": 433,
+    "deletions": 78,
+    "changed_files": 41,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 7
+  },
+  {
+    "number": 131,
+    "title": "Implement collision detection for support placement modes with hole/cavity handling",
+    "state": "closed",
+    "created_at": "2026-02-02T11:44:29+00:00",
+    "updated_at": "2026-02-03T14:55:55+00:00",
+    "closed_at": "2026-02-03T14:55:50+00:00",
+    "merged_at": "2026-02-03T14:55:50+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/131",
+    "additions": 638,
+    "deletions": 39,
+    "changed_files": 14,
+    "comments": 8,
+    "review_comments": 17,
+    "commits": 11
+  },
+  {
+    "number": 130,
+    "title": "Update README Installation section to demonstrate ESM browser bundle usage",
+    "state": "closed",
+    "created_at": "2026-01-30T10:10:29+00:00",
+    "updated_at": "2026-01-30T10:51:43+00:00",
+    "closed_at": "2026-01-30T10:51:40+00:00",
+    "merged_at": "2026-01-30T10:51:39+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/130",
+    "additions": 33,
+    "deletions": 6,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 12,
+    "commits": 4
+  },
+  {
+    "number": 129,
+    "title": "Refactor slice.coffee into modular sub-scripts and split package.json slice commands",
+    "state": "closed",
+    "created_at": "2026-01-29T11:54:54+00:00",
+    "updated_at": "2026-01-29T17:07:54+00:00",
+    "closed_at": "2026-01-29T17:07:49+00:00",
+    "merged_at": null,
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/129",
+    "additions": 1544,
+    "deletions": 914,
+    "changed_files": 16,
+    "comments": 7,
+    "review_comments": 16,
+    "commits": 11
+  },
+  {
+    "number": 128,
+    "title": "Release v26.1.2: Metadata & Progress Tracking",
+    "state": "closed",
+    "created_at": "2026-01-28T12:35:51+00:00",
+    "updated_at": "2026-01-28T13:42:44+00:00",
+    "closed_at": "2026-01-28T13:42:40+00:00",
+    "merged_at": "2026-01-28T13:42:40+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/128",
+    "additions": 33,
+    "deletions": 4,
+    "changed_files": 4,
+    "comments": 2,
+    "review_comments": 8,
+    "commits": 10
+  },
+  {
+    "number": 127,
+    "title": "Add progress callback for slice() method",
+    "state": "closed",
+    "created_at": "2026-01-27T11:43:41+00:00",
+    "updated_at": "2026-01-28T11:08:34+00:00",
+    "closed_at": "2026-01-28T11:08:30+00:00",
+    "merged_at": "2026-01-28T11:08:30+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/127",
+    "additions": 595,
+    "deletions": 59,
+    "changed_files": 28,
+    "comments": 8,
+    "review_comments": 10,
+    "commits": 15
+  },
+  {
+    "number": 126,
+    "title": "Add getGcodeMetadata() method with multi-slicer support and configurable metadata fields",
+    "state": "closed",
+    "created_at": "2026-01-27T11:35:21+00:00",
+    "updated_at": "2026-01-28T12:26:21+00:00",
+    "closed_at": "2026-01-28T12:26:17+00:00",
+    "merged_at": "2026-01-28T12:26:17+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/126",
+    "additions": 986,
+    "deletions": 0,
+    "changed_files": 7,
+    "comments": 6,
+    "review_comments": 21,
+    "commits": 13
+  },
+  {
+    "number": 125,
+    "title": "Fix infill boundary calculation and inner wall generation for thin-walled geometries",
+    "state": "closed",
+    "created_at": "2026-01-26T16:39:35+00:00",
+    "updated_at": "2026-01-28T11:09:02+00:00",
+    "closed_at": "2026-01-28T11:08:56+00:00",
+    "merged_at": null,
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/125",
+    "additions": 429,
+    "deletions": 101,
+    "changed_files": 51,
+    "comments": 6,
+    "review_comments": 3,
+    "commits": 10
+  },
+  {
+    "number": 124,
+    "title": "Add material consumption and print time statistics to G-code metadata with customizable field controls",
+    "state": "closed",
+    "created_at": "2026-01-25T07:23:35+00:00",
+    "updated_at": "2026-01-26T14:17:56+00:00",
+    "closed_at": "2026-01-26T14:17:51+00:00",
+    "merged_at": "2026-01-26T14:17:51+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/124",
+    "additions": 1070,
+    "deletions": 11,
+    "changed_files": 9,
+    "comments": 2,
+    "review_comments": 16,
+    "commits": 11
+  },
+  {
+    "number": 123,
+    "title": "Fix mesh complexity warnings and invalid G-code from degenerate paths",
+    "state": "closed",
+    "created_at": "2026-01-24T06:30:13+00:00",
+    "updated_at": "2026-01-27T08:27:25+00:00",
+    "closed_at": "2026-01-27T08:27:22+00:00",
+    "merged_at": "2026-01-27T08:27:22+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/123",
+    "additions": 525,
+    "deletions": 118,
+    "changed_files": 67,
+    "comments": 4,
+    "review_comments": 12,
+    "commits": 16
+  },
+  {
+    "number": 122,
+    "title": "Add threshold-based support generation examples to slice-supports.js",
+    "state": "closed",
+    "created_at": "2026-01-24T06:21:16+00:00",
+    "updated_at": "2026-01-25T07:48:33+00:00",
+    "closed_at": "2026-01-25T07:48:31+00:00",
+    "merged_at": "2026-01-25T07:48:31+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/122",
+    "additions": 94,
+    "deletions": 2,
+    "changed_files": 12,
+    "comments": 0,
+    "review_comments": 3,
+    "commits": 4
+  },
+  {
+    "number": 120,
+    "title": "Fix support overhang cache persistence and implement 'everywhere' placement",
+    "state": "closed",
+    "created_at": "2026-01-23T13:08:40+00:00",
+    "updated_at": "2026-01-24T06:14:35+00:00",
+    "closed_at": "2026-01-24T06:14:27+00:00",
+    "merged_at": "2026-01-24T06:14:27+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/120",
+    "additions": 155,
+    "deletions": 58,
+    "changed_files": 11,
+    "comments": 2,
+    "review_comments": 3,
+    "commits": 5
+  },
+  {
+    "number": 119,
+    "title": "Add slice-supports.js for version-controlled support structure study",
+    "state": "closed",
+    "created_at": "2026-01-23T11:06:21+00:00",
+    "updated_at": "2026-01-23T12:03:44+00:00",
+    "closed_at": "2026-01-23T12:03:41+00:00",
+    "merged_at": "2026-01-23T12:03:41+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/119",
+    "additions": 320,
+    "deletions": 1,
+    "changed_files": 8,
+    "comments": 0,
+    "review_comments": 8,
+    "commits": 9
+  },
+  {
+    "number": 118,
+    "title": "Release v26.1.1",
+    "state": "closed",
+    "created_at": "2026-01-23T08:36:34+00:00",
+    "updated_at": "2026-01-23T09:05:02+00:00",
+    "closed_at": "2026-01-23T09:04:58+00:00",
+    "merged_at": "2026-01-23T09:04:58+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/118",
+    "additions": 7,
+    "deletions": 4,
+    "changed_files": 3,
+    "comments": 0,
+    "review_comments": 1,
+    "commits": 5
+  },
+  {
+    "number": 117,
+    "title": "Fix missing skin infill in outer boundaries with holes",
+    "state": "closed",
+    "created_at": "2026-01-22T11:15:00+00:00",
+    "updated_at": "2026-01-23T06:56:34+00:00",
+    "closed_at": "2026-01-23T06:56:30+00:00",
+    "merged_at": "2026-01-23T06:56:30+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/117",
+    "additions": 956,
+    "deletions": 478,
+    "changed_files": 208,
+    "comments": 16,
+    "review_comments": 0,
+    "commits": 11
+  },
+  {
+    "number": 116,
+    "title": "Fix missing infill in multi-object arrays by centering patterns on boundary",
+    "state": "closed",
+    "created_at": "2026-01-22T05:27:23+00:00",
+    "updated_at": "2026-01-22T08:39:19+00:00",
+    "closed_at": "2026-01-22T08:39:15+00:00",
+    "merged_at": "2026-01-22T08:39:15+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/116",
+    "additions": 502,
+    "deletions": 69,
+    "changed_files": 41,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 4
+  },
+  {
+    "number": 115,
+    "title": "Add keyboard controls and hover G-code logging for visualizer sliders",
+    "state": "closed",
+    "created_at": "2026-01-22T04:54:37+00:00",
+    "updated_at": "2026-01-22T07:44:55+00:00",
+    "closed_at": "2026-01-22T07:44:52+00:00",
+    "merged_at": "2026-01-22T07:44:52+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/115",
+    "additions": 278,
+    "deletions": 96,
+    "changed_files": 9,
+    "comments": 4,
+    "review_comments": 0,
+    "commits": 7
+  },
+  {
+    "number": 114,
+    "title": "Reconcile sequential completion with exposure detection for independent objects",
+    "state": "closed",
+    "created_at": "2026-01-20T04:44:31+00:00",
+    "updated_at": "2026-01-21T04:49:39+00:00",
+    "closed_at": "2026-01-21T04:49:32+00:00",
+    "merged_at": "2026-01-21T04:49:32+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/114",
+    "additions": 204,
+    "deletions": 31,
+    "changed_files": 10,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 5
+  },
+  {
+    "number": 113,
+    "title": "Refactor adhesion settings: extract type-specific configurations and consolidate shared utilities",
+    "state": "closed",
+    "created_at": "2026-01-20T03:47:41+00:00",
+    "updated_at": "2026-01-20T07:59:41+00:00",
+    "closed_at": "2026-01-20T07:59:38+00:00",
+    "merged_at": "2026-01-20T07:59:37+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/113",
+    "additions": 908,
+    "deletions": 121,
+    "changed_files": 20,
+    "comments": 8,
+    "review_comments": 0,
+    "commits": 7
+  },
+  {
+    "number": 112,
+    "title": "Implement raft adhesion type with configurable parameters and automatic Z-offset",
+    "state": "closed",
+    "created_at": "2026-01-19T10:21:04+00:00",
+    "updated_at": "2026-01-19T12:58:19+00:00",
+    "closed_at": "2026-01-19T12:58:15+00:00",
+    "merged_at": "2026-01-19T12:58:15+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/112",
+    "additions": 470,
+    "deletions": 29,
+    "changed_files": 10,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 4
+  },
+  {
+    "number": 111,
+    "title": "Allow travel optimization with exposure detection enabled",
+    "state": "closed",
+    "created_at": "2026-01-19T10:12:11+00:00",
+    "updated_at": "2026-01-19T13:28:50+00:00",
+    "closed_at": "2026-01-19T13:28:46+00:00",
+    "merged_at": "2026-01-19T13:28:46+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/111",
+    "additions": 127,
+    "deletions": 21,
+    "changed_files": 10,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 8
+  },
+  {
+    "number": 110,
+    "title": "Implement brim adhesion type for build plate adhesion",
+    "state": "closed",
+    "created_at": "2026-01-19T10:00:40+00:00",
+    "updated_at": "2026-01-19T10:20:11+00:00",
+    "closed_at": "2026-01-19T10:20:07+00:00",
+    "merged_at": "2026-01-19T10:20:07+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/110",
+    "additions": 398,
+    "deletions": 32,
+    "changed_files": 5,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 2
+  },
+  {
+    "number": 109,
+    "title": "Add release-agent profile for version management and publishing",
+    "state": "closed",
+    "created_at": "2026-01-18T11:21:42+00:00",
+    "updated_at": "2026-01-19T03:50:48+00:00",
+    "closed_at": "2026-01-19T03:50:45+00:00",
+    "merged_at": "2026-01-19T03:50:45+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/109",
+    "additions": 478,
+    "deletions": 0,
+    "changed_files": 2,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 4
+  },
+  {
+    "number": 108,
+    "title": "Suppress expected console warnings in test suite",
+    "state": "closed",
+    "created_at": "2026-01-18T07:25:27+00:00",
+    "updated_at": "2026-01-18T12:14:12+00:00",
+    "closed_at": "2026-01-18T12:14:08+00:00",
+    "merged_at": "2026-01-18T12:14:08+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/108",
+    "additions": 49,
+    "deletions": 1,
+    "changed_files": 5,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 3
+  },
+  {
+    "number": 107,
+    "title": "Implement shape skirt adhesion type",
+    "state": "closed",
+    "created_at": "2026-01-18T06:10:44+00:00",
+    "updated_at": "2026-01-19T09:48:31+00:00",
+    "closed_at": "2026-01-19T09:48:26+00:00",
+    "merged_at": "2026-01-19T09:48:26+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/107",
+    "additions": 483,
+    "deletions": 75,
+    "changed_files": 12,
+    "comments": 4,
+    "review_comments": 0,
+    "commits": 7
+  },
+  {
+    "number": 106,
+    "title": "Add slice-pillars example script with optimized travel path generation",
+    "state": "closed",
+    "created_at": "2026-01-11T08:07:16+00:00",
+    "updated_at": "2026-01-13T04:47:49+00:00",
+    "closed_at": "2026-01-13T04:47:46+00:00",
+    "merged_at": "2026-01-13T04:47:46+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/106",
+    "additions": 822,
+    "deletions": 27,
+    "changed_files": 18,
+    "comments": 9,
+    "review_comments": 0,
+    "commits": 10
+  },
+  {
+    "number": 105,
+    "title": "Add smart wipe nozzle that avoids print surface",
+    "state": "closed",
+    "created_at": "2026-01-10T05:33:58+00:00",
+    "updated_at": "2026-01-13T12:40:35+00:00",
+    "closed_at": "2026-01-13T12:40:32+00:00",
+    "merged_at": "2026-01-13T12:40:32+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/105",
+    "additions": 747,
+    "deletions": 4,
+    "changed_files": 13,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 7
+  },
+  {
+    "number": 104,
+    "title": "Implement adhesion module with skirt generation and modular architecture",
+    "state": "closed",
+    "created_at": "2026-01-08T12:35:02+00:00",
+    "updated_at": "2026-01-13T07:25:28+00:00",
+    "closed_at": "2026-01-13T07:25:25+00:00",
+    "merged_at": "2026-01-13T07:25:25+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/104",
+    "additions": 1206,
+    "deletions": 31,
+    "changed_files": 19,
+    "comments": 8,
+    "review_comments": 0,
+    "commits": 10
+  },
+  {
+    "number": 103,
+    "title": "Reconcile infill/skin overlap prevention with nested structures infill",
+    "state": "closed",
+    "created_at": "2026-01-08T11:57:11+00:00",
+    "updated_at": "2026-01-09T00:10:44+00:00",
+    "closed_at": "2026-01-09T00:10:40+00:00",
+    "merged_at": "2026-01-09T00:10:40+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/103",
+    "additions": 352,
+    "deletions": 143,
+    "changed_files": 71,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 6
+  },
+  {
+    "number": 102,
+    "title": "Add configurable G-code precision to reduce file sizes by 20-30%",
+    "state": "closed",
+    "created_at": "2026-01-08T06:44:28+00:00",
+    "updated_at": "2026-01-08T08:50:30+00:00",
+    "closed_at": "2026-01-08T08:50:25+00:00",
+    "merged_at": "2026-01-08T08:50:25+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/102",
+    "additions": 504,
+    "deletions": 9,
+    "changed_files": 7,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 4
+  },
+  {
+    "number": 101,
+    "title": "Fix skin infill generation in nested structures with holes",
+    "state": "closed",
+    "created_at": "2026-01-08T06:26:45+00:00",
+    "updated_at": "2026-01-08T08:05:22+00:00",
+    "closed_at": "2026-01-08T08:05:16+00:00",
+    "merged_at": "2026-01-08T08:05:16+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/101",
+    "additions": 346,
+    "deletions": 43,
+    "changed_files": 6,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 5
+  },
+  {
+    "number": 100,
+    "title": "Fix path simplification removing segments and cutting corners on curved surfaces",
+    "state": "closed",
+    "created_at": "2026-01-07T05:09:48+00:00",
+    "updated_at": "2026-01-08T03:46:21+00:00",
+    "closed_at": "2026-01-08T03:46:17+00:00",
+    "merged_at": "2026-01-08T03:46:17+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/100",
+    "additions": 172,
+    "deletions": 99,
+    "changed_files": 47,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 6
+  },
+  {
+    "number": 99,
+    "title": "Fix incorrect skin generation for holes in nested structures",
+    "state": "closed",
+    "created_at": "2026-01-05T08:02:12+00:00",
+    "updated_at": "2026-01-08T08:51:10+00:00",
+    "closed_at": "2026-01-08T07:18:42+00:00",
+    "merged_at": null,
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/99",
+    "additions": 69,
+    "deletions": 60,
+    "changed_files": 14,
+    "comments": 7,
+    "review_comments": 0,
+    "commits": 6
+  },
+  {
+    "number": 98,
+    "title": "Fix infill generation for nested structures by filtering holes based on nesting level",
+    "state": "closed",
+    "created_at": "2026-01-03T09:20:30+00:00",
+    "updated_at": "2026-01-04T05:13:51+00:00",
+    "closed_at": "2026-01-04T05:13:48+00:00",
+    "merged_at": "2026-01-04T05:13:47+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/98",
+    "additions": 381,
+    "deletions": 173,
+    "changed_files": 80,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 6
+  },
+  {
+    "number": 97,
+    "title": "Fix skin wall generation for nested structures in matryoshka scenarios",
+    "state": "closed",
+    "created_at": "2025-12-31T06:54:43+00:00",
+    "updated_at": "2026-01-01T09:22:34+00:00",
+    "closed_at": "2026-01-01T09:22:30+00:00",
+    "merged_at": "2026-01-01T09:22:30+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/97",
+    "additions": 424,
+    "deletions": 105,
+    "changed_files": 50,
+    "comments": 6,
+    "review_comments": 0,
+    "commits": 8
+  },
+  {
+    "number": 96,
+    "title": "Implement nesting-level-based hole/structure classification for nested paths",
+    "state": "closed",
+    "created_at": "2025-12-27T06:44:16+00:00",
+    "updated_at": "2025-12-29T07:22:43+00:00",
+    "closed_at": "2025-12-29T07:22:36+00:00",
+    "merged_at": "2025-12-29T07:22:36+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/96",
+    "additions": 667,
+    "deletions": 93,
+    "changed_files": 13,
+    "comments": 4,
+    "review_comments": 0,
+    "commits": 6
+  },
+  {
+    "number": 94,
+    "title": "Refactor visualizer.js into modular architecture (1863 lines \u2192 9 focused modules)",
+    "state": "closed",
+    "created_at": "2025-12-16T09:13:22+00:00",
+    "updated_at": "2025-12-20T06:28:30+00:00",
+    "closed_at": "2025-12-20T06:28:26+00:00",
+    "merged_at": "2025-12-20T06:28:26+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/94",
+    "additions": 2171,
+    "deletions": 1746,
+    "changed_files": 12,
+    "comments": 8,
+    "review_comments": 0,
+    "commits": 10
+  },
+  {
+    "number": 93,
+    "title": "Add slicing GUI to visualizer for 3D model files",
+    "state": "closed",
+    "created_at": "2025-12-12T06:32:02+00:00",
+    "updated_at": "2025-12-15T07:06:34+00:00",
+    "closed_at": "2025-12-15T07:06:29+00:00",
+    "merged_at": "2025-12-15T07:06:29+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/93",
+    "additions": 367,
+    "deletions": 77,
+    "changed_files": 6,
+    "comments": 4,
+    "review_comments": 0,
+    "commits": 8
+  },
+  {
+    "number": 92,
+    "title": "Fix ESM build to externalize THREE.js and add browser builds for different use cases",
+    "state": "closed",
+    "created_at": "2025-12-10T12:04:32+00:00",
+    "updated_at": "2025-12-11T04:32:51+00:00",
+    "closed_at": "2025-12-11T04:32:47+00:00",
+    "merged_at": "2025-12-11T04:32:46+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/92",
+    "additions": 33,
+    "deletions": 19,
+    "changed_files": 3,
+    "comments": 20,
+    "review_comments": 0,
+    "commits": 11
+  },
+  {
+    "number": 91,
+    "title": "Preserve original mesh transforms and geometry during slicing, and center meshes on build plate",
+    "state": "closed",
+    "created_at": "2025-12-10T06:36:26+00:00",
+    "updated_at": "2025-12-16T08:56:01+00:00",
+    "closed_at": "2025-12-16T08:55:58+00:00",
+    "merged_at": "2025-12-16T08:55:58+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/91",
+    "additions": 286,
+    "deletions": 39,
+    "changed_files": 9,
+    "comments": 8,
+    "review_comments": 0,
+    "commits": 12
+  },
+  {
+    "number": 90,
+    "title": "Research and recommendations for resin printing (SLA/DLP/LCD) support",
+    "state": "closed",
+    "created_at": "2025-12-07T13:15:04+00:00",
+    "updated_at": "2026-01-28T12:33:48+00:00",
+    "closed_at": "2026-01-28T12:33:41+00:00",
+    "merged_at": null,
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/90",
+    "additions": 2152,
+    "deletions": 0,
+    "changed_files": 5,
+    "comments": 1,
+    "review_comments": 0,
+    "commits": 3
+  },
+  {
+    "number": 89,
+    "title": "Add demo video section to README",
+    "state": "closed",
+    "created_at": "2025-12-06T04:17:25+00:00",
+    "updated_at": "2025-12-06T04:38:23+00:00",
+    "closed_at": "2025-12-06T04:38:20+00:00",
+    "merged_at": "2025-12-06T04:38:20+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/89",
+    "additions": 7,
+    "deletions": 0,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 3
+  },
+  {
+    "number": 88,
+    "title": "Fix layer index display to start from 1 and include total count",
+    "state": "closed",
+    "created_at": "2025-12-01T11:00:34+00:00",
+    "updated_at": "2025-12-01T13:22:48+00:00",
+    "closed_at": "2025-12-01T13:22:44+00:00",
+    "merged_at": "2025-12-01T13:22:44+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/88",
+    "additions": 159,
+    "deletions": 159,
+    "changed_files": 4,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 2
+  },
+  {
+    "number": 87,
+    "title": "Add G-code download to visualizer, update exporter examples, and add streamGCodeWithAck for Node.js",
+    "state": "closed",
+    "created_at": "2025-12-01T10:54:19+00:00",
+    "updated_at": "2025-12-02T13:44:36+00:00",
+    "closed_at": "2025-12-02T13:44:26+00:00",
+    "merged_at": "2025-12-02T13:44:26+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/87",
+    "additions": 1289,
+    "deletions": 224,
+    "changed_files": 12,
+    "comments": 14,
+    "review_comments": 0,
+    "commits": 11
+  },
+  {
+    "number": 86,
+    "title": "Add Node.js local file loading support to Polyslice Loader and visualizer integration",
+    "state": "closed",
+    "created_at": "2025-12-01T07:00:01+00:00",
+    "updated_at": "2025-12-01T10:35:20+00:00",
+    "closed_at": "2025-12-01T10:35:16+00:00",
+    "merged_at": "2025-12-01T10:35:16+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/86",
+    "additions": 920,
+    "deletions": 229,
+    "changed_files": 7,
+    "comments": 14,
+    "review_comments": 0,
+    "commits": 11
+  },
+  {
+    "number": 85,
+    "title": "Fix slice state persistence: remove side effects from coder methods",
+    "state": "closed",
+    "created_at": "2025-11-28T14:09:44+00:00",
+    "updated_at": "2025-11-30T06:04:34+00:00",
+    "closed_at": "2025-11-30T06:04:30+00:00",
+    "merged_at": "2025-11-30T06:04:30+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/85",
+    "additions": 121,
+    "deletions": 44,
+    "changed_files": 9,
+    "comments": 4,
+    "review_comments": 0,
+    "commits": 5
+  },
+  {
+    "number": 84,
+    "title": "Reorganize instructions folder structure and simplify source comments",
+    "state": "closed",
+    "created_at": "2025-11-28T08:19:16+00:00",
+    "updated_at": "2025-11-30T06:29:52+00:00",
+    "closed_at": "2025-11-30T06:29:49+00:00",
+    "merged_at": "2025-11-30T06:29:48+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/84",
+    "additions": 3174,
+    "deletions": 869,
+    "changed_files": 33,
+    "comments": 6,
+    "review_comments": 0,
+    "commits": 7
+  },
+  {
+    "number": 83,
+    "title": "Update, clean and reorganize docs folder",
+    "state": "closed",
+    "created_at": "2025-11-27T05:13:08+00:00",
+    "updated_at": "2025-11-28T06:04:44+00:00",
+    "closed_at": "2025-11-28T06:04:40+00:00",
+    "merged_at": "2025-11-28T06:04:40+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/83",
+    "additions": 3728,
+    "deletions": 935,
+    "changed_files": 31,
+    "comments": 12,
+    "review_comments": 0,
+    "commits": 16
+  },
+  {
+    "number": 82,
+    "title": "Refactor src/utils: move helpers to src/slicer/utils",
+    "state": "closed",
+    "created_at": "2025-11-26T11:53:57+00:00",
+    "updated_at": "2025-11-26T15:12:03+00:00",
+    "closed_at": "2025-11-26T15:11:59+00:00",
+    "merged_at": "2025-11-26T15:11:59+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/82",
+    "additions": 147,
+    "deletions": 86,
+    "changed_files": 18,
+    "comments": 4,
+    "review_comments": 0,
+    "commits": 4
+  },
+  {
+    "number": 81,
+    "title": "Refactor src/slicer folder: modularize geometry helpers, preprocessing, and exposure modules",
+    "state": "closed",
+    "created_at": "2025-11-25T10:09:14+00:00",
+    "updated_at": "2025-11-26T08:53:09+00:00",
+    "closed_at": "2025-11-26T08:53:06+00:00",
+    "merged_at": "2025-11-26T08:53:06+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/81",
+    "additions": 5890,
+    "deletions": 5620,
+    "changed_files": 40,
+    "comments": 16,
+    "review_comments": 0,
+    "commits": 14
+  },
+  {
+    "number": 80,
+    "title": "Add specialized agents for docs, testing, linting, and refactoring",
+    "state": "closed",
+    "created_at": "2025-11-25T07:40:02+00:00",
+    "updated_at": "2025-11-25T09:54:59+00:00",
+    "closed_at": "2025-11-25T09:54:56+00:00",
+    "merged_at": "2025-11-25T09:54:56+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/80",
+    "additions": 707,
+    "deletions": 17,
+    "changed_files": 6,
+    "comments": 4,
+    "review_comments": 0,
+    "commits": 8
+  },
+  {
+    "number": 79,
+    "title": "Fix covered area boundary exclusion in skin infill generation",
+    "state": "closed",
+    "created_at": "2025-11-24T10:16:39+00:00",
+    "updated_at": "2025-11-24T11:05:15+00:00",
+    "closed_at": "2025-11-24T11:05:12+00:00",
+    "merged_at": "2025-11-24T11:05:12+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/79",
+    "additions": 164,
+    "deletions": 45,
+    "changed_files": 5,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 8
+  },
+  {
+    "number": 78,
+    "title": "Fix missing infill and skin walls in fully covered areas",
+    "state": "closed",
+    "created_at": "2025-11-24T06:24:09+00:00",
+    "updated_at": "2025-11-24T09:08:35+00:00",
+    "closed_at": "2025-11-24T09:08:07+00:00",
+    "merged_at": "2025-11-24T09:08:07+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/78",
+    "additions": 334,
+    "deletions": 11,
+    "changed_files": 4,
+    "comments": 10,
+    "review_comments": 0,
+    "commits": 14
+  },
+  {
+    "number": 77,
+    "title": "Change size ratio tolerance/threshold for Overlap Area in Covered Regions",
+    "state": "closed",
+    "created_at": "2025-11-24T06:00:51+00:00",
+    "updated_at": "2025-11-24T08:57:56+00:00",
+    "closed_at": "2025-11-24T08:57:52+00:00",
+    "merged_at": "2025-11-24T08:57:52+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/77",
+    "additions": 5,
+    "deletions": 12,
+    "changed_files": 2,
+    "comments": 9,
+    "review_comments": 0,
+    "commits": 9
+  },
+  {
+    "number": 76,
+    "title": "Add XY plane grid with toggle to visualizer",
+    "state": "closed",
+    "created_at": "2025-11-21T07:32:31+00:00",
+    "updated_at": "2025-11-21T13:39:14+00:00",
+    "closed_at": "2025-11-21T13:39:06+00:00",
+    "merged_at": "2025-11-21T13:39:06+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/76",
+    "additions": 161,
+    "deletions": 20,
+    "changed_files": 2,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 4
+  },
+  {
+    "number": 75,
+    "title": "Fix infill/skin overlap on adaptive skin layers using polygon-clipping",
+    "state": "closed",
+    "created_at": "2025-11-21T05:55:29+00:00",
+    "updated_at": "2025-11-21T07:40:30+00:00",
+    "closed_at": "2025-11-21T07:40:25+00:00",
+    "merged_at": "2025-11-21T07:40:24+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/75",
+    "additions": 355,
+    "deletions": 23,
+    "changed_files": 5,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 7
+  },
+  {
+    "number": 74,
+    "title": "Fix skin infill generation in fully covered areas (orientation-independent)",
+    "state": "closed",
+    "created_at": "2025-11-20T12:49:23+00:00",
+    "updated_at": "2025-11-21T07:13:46+00:00",
+    "closed_at": "2025-11-21T07:13:42+00:00",
+    "merged_at": "2025-11-21T07:13:42+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/74",
+    "additions": 206,
+    "deletions": 50,
+    "changed_files": 2,
+    "comments": 10,
+    "review_comments": 0,
+    "commits": 8
+  },
+  {
+    "number": 73,
+    "title": "Add thick lines toggle to visualizer",
+    "state": "closed",
+    "created_at": "2025-11-19T10:26:10+00:00",
+    "updated_at": "2025-11-20T09:59:01+00:00",
+    "closed_at": "2025-11-20T09:58:58+00:00",
+    "merged_at": "2025-11-20T09:58:58+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/73",
+    "additions": 157,
+    "deletions": 19,
+    "changed_files": 3,
+    "comments": 6,
+    "review_comments": 0,
+    "commits": 7
+  },
+  {
+    "number": 72,
+    "title": "Fix skin infill generation for dome cavities by limiting covering regions to absolute layers",
+    "state": "closed",
+    "created_at": "2025-11-19T08:57:24+00:00",
+    "updated_at": "2025-11-20T09:48:11+00:00",
+    "closed_at": "2025-11-20T09:48:06+00:00",
+    "merged_at": "2025-11-20T09:48:06+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/72",
+    "additions": 102,
+    "deletions": 12,
+    "changed_files": 3,
+    "comments": 10,
+    "review_comments": 0,
+    "commits": 4
+  },
+  {
+    "number": 71,
+    "title": "Add optional mesh preprocessing to improve slicing quality on sparse geometries",
+    "state": "closed",
+    "created_at": "2025-11-17T09:42:10+00:00",
+    "updated_at": "2025-11-18T13:21:00+00:00",
+    "closed_at": "2025-11-18T13:20:55+00:00",
+    "merged_at": "2025-11-18T13:20:55+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/71",
+    "additions": 236,
+    "deletions": 5,
+    "changed_files": 6,
+    "comments": 14,
+    "review_comments": 0,
+    "commits": 8
+  },
+  {
+    "number": 70,
+    "title": "Fix exposure detection with perimeter optimization and covering region exclusion - add isCoveredArea parameter for future use",
+    "state": "closed",
+    "created_at": "2025-11-14T12:42:42+00:00",
+    "updated_at": "2025-11-15T11:31:49+00:00",
+    "closed_at": "2025-11-15T11:31:46+00:00",
+    "merged_at": "2025-11-15T11:31:46+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/70",
+    "additions": 362,
+    "deletions": 654,
+    "changed_files": 77,
+    "comments": 16,
+    "review_comments": 0,
+    "commits": 10
+  },
+  {
+    "number": 69,
+    "title": "Improve path reconstruction with bidirectional extension and identify Polytree segmentation gaps requiring custom slicer implementation",
+    "state": "closed",
+    "created_at": "2025-11-14T06:19:56+00:00",
+    "updated_at": "2025-11-17T07:36:25+00:00",
+    "closed_at": "2025-11-17T07:36:21+00:00",
+    "merged_at": "2025-11-17T07:36:21+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/69",
+    "additions": 125,
+    "deletions": 30,
+    "changed_files": 3,
+    "comments": 30,
+    "review_comments": 0,
+    "commits": 16
+  },
+  {
+    "number": 68,
+    "title": "Fix hole skin wall generation and skin patches inside holes",
+    "state": "closed",
+    "created_at": "2025-11-12T07:37:36+00:00",
+    "updated_at": "2025-11-13T07:54:10+00:00",
+    "closed_at": "2025-11-13T07:54:06+00:00",
+    "merged_at": "2025-11-13T07:54:06+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/68",
+    "additions": 309,
+    "deletions": 113,
+    "changed_files": 43,
+    "comments": 4,
+    "review_comments": 0,
+    "commits": 8
+  },
+  {
+    "number": 67,
+    "title": "Fix exposure detection for cavities and holes, exclude holes from skin patches, skip patches inside holes, and filter unnecessary hole skin walls",
+    "state": "closed",
+    "created_at": "2025-11-08T06:33:42+00:00",
+    "updated_at": "2025-11-10T09:09:41+00:00",
+    "closed_at": "2025-11-10T09:09:18+00:00",
+    "merged_at": "2025-11-10T09:09:18+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/67",
+    "additions": 477,
+    "deletions": 41,
+    "changed_files": 5,
+    "comments": 16,
+    "review_comments": 0,
+    "commits": 8
+  },
+  {
+    "number": 66,
+    "title": "Fix adaptive skin generation to trace smooth contours with optimized resolution and curve smoothing",
+    "state": "closed",
+    "created_at": "2025-11-07T13:37:11+00:00",
+    "updated_at": "2025-11-08T05:57:29+00:00",
+    "closed_at": "2025-11-08T05:57:25+00:00",
+    "merged_at": "2025-11-08T05:57:25+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/66",
+    "additions": 800,
+    "deletions": 259,
+    "changed_files": 107,
+    "comments": 8,
+    "review_comments": 0,
+    "commits": 8
+  },
+  {
+    "number": 65,
+    "title": "Fix adaptive skin generation for exposed cavity surfaces, ceiling/floor layers, and inverted dome geometries",
+    "state": "closed",
+    "created_at": "2025-11-07T10:43:55+00:00",
+    "updated_at": "2025-11-07T13:58:11+00:00",
+    "closed_at": "2025-11-07T13:58:07+00:00",
+    "merged_at": null,
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/65",
+    "additions": 289,
+    "deletions": 24,
+    "changed_files": 1,
+    "comments": 4,
+    "review_comments": 0,
+    "commits": 6
+  },
+  {
+    "number": 64,
+    "title": "Fix adaptive skin generation for closing cavities - bidirectional exposure detection",
+    "state": "closed",
+    "created_at": "2025-11-06T15:57:07+00:00",
+    "updated_at": "2025-11-07T13:56:34+00:00",
+    "closed_at": "2025-11-07T13:56:28+00:00",
+    "merged_at": null,
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/64",
+    "additions": 532,
+    "deletions": 1,
+    "changed_files": 3,
+    "comments": 20,
+    "review_comments": 0,
+    "commits": 15
+  },
+  {
+    "number": 63,
+    "title": "Reactivate exposure detection algorithm with marching squares and configurable resolution",
+    "state": "closed",
+    "created_at": "2025-11-05T09:41:14+00:00",
+    "updated_at": "2025-11-10T14:01:10+00:00",
+    "closed_at": "2025-11-10T14:01:03+00:00",
+    "merged_at": "2025-11-10T14:01:03+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/63",
+    "additions": 2451,
+    "deletions": 466,
+    "changed_files": 116,
+    "comments": 22,
+    "review_comments": 0,
+    "commits": 36
+  },
+  {
+    "number": 62,
+    "title": "Fix travel paths crossing holes by adding proximity-based exclusion",
+    "state": "closed",
+    "created_at": "2025-11-04T13:33:59+00:00",
+    "updated_at": "2025-11-06T14:02:35+00:00",
+    "closed_at": "2025-11-04T16:38:44+00:00",
+    "merged_at": null,
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/62",
+    "additions": 52,
+    "deletions": 5,
+    "changed_files": 1,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 5
+  },
+  {
+    "number": 61,
+    "title": "Fix skin wall generation to restore single-pass behavior while preserving spacing validation",
+    "state": "closed",
+    "created_at": "2025-11-04T11:43:30+00:00",
+    "updated_at": "2025-11-04T12:57:06+00:00",
+    "closed_at": "2025-11-04T12:57:02+00:00",
+    "merged_at": "2025-11-04T12:57:02+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/61",
+    "additions": 553,
+    "deletions": 119,
+    "changed_files": 3,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 5
+  },
+  {
+    "number": 60,
+    "title": "Fix pathfinding algorithm crossing holes and optimize wall starting points",
+    "state": "closed",
+    "created_at": "2025-11-03T10:34:56+00:00",
+    "updated_at": "2025-11-04T11:26:38+00:00",
+    "closed_at": "2025-11-04T11:26:33+00:00",
+    "merged_at": "2025-11-04T11:26:33+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/60",
+    "additions": 503,
+    "deletions": 75,
+    "changed_files": 4,
+    "comments": 12,
+    "review_comments": 0,
+    "commits": 9
+  },
+  {
+    "number": 59,
+    "title": "Reduce hole crossings by 43% and eliminate layer transition crossings via improved A* pathfinding",
+    "state": "closed",
+    "created_at": "2025-11-02T06:37:28+00:00",
+    "updated_at": "2025-11-02T14:23:28+00:00",
+    "closed_at": "2025-11-02T14:23:25+00:00",
+    "merged_at": "2025-11-02T14:23:25+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/59",
+    "additions": 129,
+    "deletions": 8,
+    "changed_files": 2,
+    "comments": 6,
+    "review_comments": 0,
+    "commits": 6
+  },
+  {
+    "number": 58,
+    "title": "Implement polygon-based exposure detection with skin propagation for transition preparation layers",
+    "state": "closed",
+    "created_at": "2025-11-02T06:02:45+00:00",
+    "updated_at": "2025-11-06T11:41:40+00:00",
+    "closed_at": "2025-11-06T11:41:35+00:00",
+    "merged_at": null,
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/58",
+    "additions": 2764,
+    "deletions": 615,
+    "changed_files": 49,
+    "comments": 12,
+    "review_comments": 0,
+    "commits": 11
+  },
+  {
+    "number": 57,
+    "title": "Migrate example scripts from three-bvh-csg to @jgphilpott/polytree",
+    "state": "closed",
+    "created_at": "2025-11-01T06:07:29+00:00",
+    "updated_at": "2025-11-01T07:12:47+00:00",
+    "closed_at": "2025-11-01T07:12:44+00:00",
+    "merged_at": "2025-11-01T07:12:44+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/57",
+    "additions": 43,
+    "deletions": 57,
+    "changed_files": 3,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 3
+  },
+  {
+    "number": 56,
+    "title": "Fix jagged paths in sphere top/bottom layers with adaptive path simplification and curve interpolation",
+    "state": "closed",
+    "created_at": "2025-10-31T09:06:10+00:00",
+    "updated_at": "2025-10-31T11:22:30+00:00",
+    "closed_at": "2025-10-31T11:22:26+00:00",
+    "merged_at": null,
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/56",
+    "additions": 310,
+    "deletions": 87,
+    "changed_files": 34,
+    "comments": 6,
+    "review_comments": 0,
+    "commits": 6
+  },
+  {
+    "number": 55,
+    "title": "Fix torus wall spacing issue by implementing two-stage cross-path validation with infill suppression",
+    "state": "closed",
+    "created_at": "2025-10-31T08:01:44+00:00",
+    "updated_at": "2025-10-31T11:27:47+00:00",
+    "closed_at": "2025-10-31T11:27:44+00:00",
+    "merged_at": "2025-10-31T11:27:44+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/55",
+    "additions": 569,
+    "deletions": 168,
+    "changed_files": 72,
+    "comments": 12,
+    "review_comments": 0,
+    "commits": 11
+  },
+  {
+    "number": 54,
+    "title": "Fix wall print order for geometries with holes - print outer boundary first, then holes in nearest-neighbor order with integrated skin walls",
+    "state": "closed",
+    "created_at": "2025-10-31T04:38:01+00:00",
+    "updated_at": "2025-10-31T08:33:40+00:00",
+    "closed_at": "2025-10-31T08:33:30+00:00",
+    "merged_at": "2025-10-31T08:33:30+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/54",
+    "additions": 445,
+    "deletions": 64,
+    "changed_files": 2,
+    "comments": 4,
+    "review_comments": 0,
+    "commits": 5
+  },
+  {
+    "number": 53,
+    "title": "Fix sphere and torus slicing at geometric boundaries causing missing geometry",
+    "state": "closed",
+    "created_at": "2025-10-30T10:49:48+00:00",
+    "updated_at": "2025-10-30T12:07:55+00:00",
+    "closed_at": "2025-10-30T12:07:52+00:00",
+    "merged_at": "2025-10-30T12:07:52+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/53",
+    "additions": 463,
+    "deletions": 345,
+    "changed_files": 168,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 5
+  },
+  {
+    "number": 52,
+    "title": "Implement A* pathfinding for multi-waypoint combing paths",
+    "state": "closed",
+    "created_at": "2025-10-30T03:39:32+00:00",
+    "updated_at": "2025-10-30T09:18:54+00:00",
+    "closed_at": "2025-10-30T09:18:40+00:00",
+    "merged_at": "2025-10-30T09:18:40+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/52",
+    "additions": 957,
+    "deletions": 387,
+    "changed_files": 173,
+    "comments": 6,
+    "review_comments": 0,
+    "commits": 7
+  },
+  {
+    "number": 51,
+    "title": "Implement region grouping for skin infill with holes",
+    "state": "closed",
+    "created_at": "2025-10-29T06:57:04+00:00",
+    "updated_at": "2025-10-29T07:54:32+00:00",
+    "closed_at": "2025-10-29T07:54:29+00:00",
+    "merged_at": "2025-10-29T07:54:29+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/51",
+    "additions": 172,
+    "deletions": 42,
+    "changed_files": 2,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 3
+  },
+  {
+    "number": 50,
+    "title": "Implement travel path combing for hole wall movements",
+    "state": "closed",
+    "created_at": "2025-10-29T05:52:55+00:00",
+    "updated_at": "2025-10-29T10:32:54+00:00",
+    "closed_at": "2025-10-29T10:32:50+00:00",
+    "merged_at": "2025-10-29T10:32:50+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/50",
+    "additions": 305,
+    "deletions": 28,
+    "changed_files": 5,
+    "comments": 10,
+    "review_comments": 0,
+    "commits": 10
+  },
+  {
+    "number": 49,
+    "title": "Add horizontal move slider to visualizer for chronological toolpath inspection",
+    "state": "closed",
+    "created_at": "2025-10-25T09:36:05+00:00",
+    "updated_at": "2025-10-26T07:07:42+00:00",
+    "closed_at": "2025-10-26T07:06:48+00:00",
+    "merged_at": "2025-10-26T07:06:48+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/49",
+    "additions": 352,
+    "deletions": 30,
+    "changed_files": 5,
+    "comments": 8,
+    "review_comments": 0,
+    "commits": 8
+  },
+  {
+    "number": 48,
+    "title": "Implement travel path combing for infill and skin to reduce spider webs around holes",
+    "state": "closed",
+    "created_at": "2025-10-25T09:23:27+00:00",
+    "updated_at": "2025-10-28T07:11:23+00:00",
+    "closed_at": "2025-10-28T07:11:20+00:00",
+    "merged_at": "2025-10-28T07:11:20+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/48",
+    "additions": 4712,
+    "deletions": 114,
+    "changed_files": 43,
+    "comments": 14,
+    "review_comments": 0,
+    "commits": 12
+  },
+  {
+    "number": 47,
+    "title": "Fix missing infill generation when diagonal lines pass through bounding box corners",
+    "state": "closed",
+    "created_at": "2025-10-24T09:38:43+00:00",
+    "updated_at": "2025-10-24T11:33:47+00:00",
+    "closed_at": "2025-10-24T11:33:42+00:00",
+    "merged_at": "2025-10-24T11:33:42+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/47",
+    "additions": 270,
+    "deletions": 84,
+    "changed_files": 21,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 6
+  },
+  {
+    "number": 46,
+    "title": "Add hole slicing example script demonstrating CSG capabilities",
+    "state": "closed",
+    "created_at": "2025-10-24T06:32:00+00:00",
+    "updated_at": "2025-10-24T07:10:05+00:00",
+    "closed_at": "2025-10-24T07:10:00+00:00",
+    "merged_at": "2025-10-24T07:10:00+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/46",
+    "additions": 378,
+    "deletions": 131,
+    "changed_files": 3,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 4
+  },
+  {
+    "number": 45,
+    "title": "Fix outer wall offset to ensure accurate print dimensions",
+    "state": "closed",
+    "created_at": "2025-10-24T06:18:39+00:00",
+    "updated_at": "2025-10-24T08:19:13+00:00",
+    "closed_at": "2025-10-24T08:19:10+00:00",
+    "merged_at": "2025-10-24T08:19:10+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/45",
+    "additions": 352,
+    "deletions": 337,
+    "changed_files": 167,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 4
+  },
+  {
+    "number": 44,
+    "title": "Fix torus slicing bug at center plane by adding epsilon offset to avoid geometric boundaries",
+    "state": "closed",
+    "created_at": "2025-10-23T09:44:22+00:00",
+    "updated_at": "2025-10-23T17:34:56+00:00",
+    "closed_at": "2025-10-23T17:34:52+00:00",
+    "merged_at": "2025-10-23T17:34:52+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/44",
+    "additions": 102,
+    "deletions": 9,
+    "changed_files": 4,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 3
+  },
+  {
+    "number": 43,
+    "title": "Fix torus skin layer generation - prevent false positives in curved geometries",
+    "state": "closed",
+    "created_at": "2025-10-22T17:42:48+00:00",
+    "updated_at": "2025-10-23T08:31:10+00:00",
+    "closed_at": "2025-10-23T08:31:06+00:00",
+    "merged_at": "2025-10-23T08:31:06+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/43",
+    "additions": 304,
+    "deletions": 294,
+    "changed_files": 101,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 4
+  },
+  {
+    "number": 42,
+    "title": "Fix wipeNozzle: default to true and reorder before retract/raise Z",
+    "state": "closed",
+    "created_at": "2025-10-22T10:12:38+00:00",
+    "updated_at": "2025-10-23T08:02:30+00:00",
+    "closed_at": "2025-10-23T08:02:15+00:00",
+    "merged_at": "2025-10-23T08:02:15+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/42",
+    "additions": 16,
+    "deletions": 7,
+    "changed_files": 5,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 3
+  },
+  {
+    "number": 41,
+    "title": "Fix infill and skin infill gap from hole walls to match outer wall gap behavior",
+    "state": "closed",
+    "created_at": "2025-10-22T06:22:00+00:00",
+    "updated_at": "2025-10-22T09:42:56+00:00",
+    "closed_at": "2025-10-22T09:42:52+00:00",
+    "merged_at": "2025-10-22T09:42:52+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/41",
+    "additions": 188,
+    "deletions": 72,
+    "changed_files": 37,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 4
+  },
+  {
+    "number": 40,
+    "title": "Clip infill paths by hole walls to prevent infill inside holes",
+    "state": "closed",
+    "created_at": "2025-10-21T05:21:10+00:00",
+    "updated_at": "2025-10-21T11:33:40+00:00",
+    "closed_at": "2025-10-21T11:33:36+00:00",
+    "merged_at": "2025-10-21T11:33:36+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/40",
+    "additions": 681,
+    "deletions": 147,
+    "changed_files": 72,
+    "comments": 4,
+    "review_comments": 0,
+    "commits": 5
+  },
+  {
+    "number": 39,
+    "title": "Fix missing infill on cone layers with improved fallback and polygon clipping",
+    "state": "closed",
+    "created_at": "2025-10-20T10:21:23+00:00",
+    "updated_at": "2025-10-24T09:33:57+00:00",
+    "closed_at": "2025-10-24T09:31:45+00:00",
+    "merged_at": null,
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/39",
+    "additions": 213,
+    "deletions": 12,
+    "changed_files": 8,
+    "comments": 6,
+    "review_comments": 0,
+    "commits": 7
+  },
+  {
+    "number": 38,
+    "title": "Fix inner wall offset direction for holes and generate skin walls without infill",
+    "state": "closed",
+    "created_at": "2025-10-20T05:45:46+00:00",
+    "updated_at": "2025-10-20T16:19:28+00:00",
+    "closed_at": "2025-10-20T16:19:21+00:00",
+    "merged_at": "2025-10-20T16:19:21+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/38",
+    "additions": 253,
+    "deletions": 91,
+    "changed_files": 38,
+    "comments": 8,
+    "review_comments": 0,
+    "commits": 8
+  },
+  {
+    "number": 37,
+    "title": "Add regression tests for PR #35: Infill clipping to polygon boundaries",
+    "state": "closed",
+    "created_at": "2025-10-19T05:55:05+00:00",
+    "updated_at": "2025-10-19T06:41:05+00:00",
+    "closed_at": "2025-10-19T06:41:01+00:00",
+    "merged_at": "2025-10-19T06:41:01+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/37",
+    "additions": 400,
+    "deletions": 0,
+    "changed_files": 3,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 3
+  },
+  {
+    "number": 36,
+    "title": "Fix cone slicing issue: prevent invalid inner walls and degenerate geometry near cone tip",
+    "state": "closed",
+    "created_at": "2025-10-18T05:51:08+00:00",
+    "updated_at": "2025-10-19T07:17:15+00:00",
+    "closed_at": "2025-10-19T07:17:11+00:00",
+    "merged_at": "2025-10-19T07:17:11+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/36",
+    "additions": 269,
+    "deletions": 135,
+    "changed_files": 70,
+    "comments": 6,
+    "review_comments": 0,
+    "commits": 8
+  },
+  {
+    "number": 35,
+    "title": "Fix infill generation to clip to inner wall boundary instead of rectangular bounding box",
+    "state": "closed",
+    "created_at": "2025-10-17T13:55:52+00:00",
+    "updated_at": "2025-10-17T17:29:21+00:00",
+    "closed_at": "2025-10-17T17:29:18+00:00",
+    "merged_at": "2025-10-17T17:29:18+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/35",
+    "additions": 376,
+    "deletions": 421,
+    "changed_files": 158,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 5
+  },
+  {
+    "number": 34,
+    "title": "Update visualizer: separate info panel, preserve camera position, and reset checkboxes",
+    "state": "closed",
+    "created_at": "2025-10-17T08:35:15+00:00",
+    "updated_at": "2025-10-17T10:58:58+00:00",
+    "closed_at": "2025-10-17T10:58:55+00:00",
+    "merged_at": "2025-10-17T10:58:55+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/34",
+    "additions": 48,
+    "deletions": 11,
+    "changed_files": 3,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 5
+  },
+  {
+    "number": 33,
+    "title": "Fix skin infill polygon clipping for circular and irregular shapes",
+    "state": "closed",
+    "created_at": "2025-10-17T07:56:47+00:00",
+    "updated_at": "2025-10-17T10:13:06+00:00",
+    "closed_at": "2025-10-17T10:12:57+00:00",
+    "merged_at": "2025-10-17T10:12:57+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/33",
+    "additions": 806,
+    "deletions": 364,
+    "changed_files": 169,
+    "comments": 6,
+    "review_comments": 0,
+    "commits": 5
+  },
+  {
+    "number": 32,
+    "title": "Refactor slice-cube.js to slice-shapes.js with batch generation for multiple shapes and organized infill patterns",
+    "state": "closed",
+    "created_at": "2025-10-16T14:30:54+00:00",
+    "updated_at": "2025-10-17T05:42:21+00:00",
+    "closed_at": "2025-10-17T05:42:18+00:00",
+    "merged_at": "2025-10-17T05:42:18+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/32",
+    "additions": 258,
+    "deletions": 36,
+    "changed_files": 13,
+    "comments": 4,
+    "review_comments": 0,
+    "commits": 8
+  },
+  {
+    "number": 31,
+    "title": "Fix layer slider counting and implement dual-slider range control for visualizer",
+    "state": "closed",
+    "created_at": "2025-10-16T10:24:10+00:00",
+    "updated_at": "2025-10-16T12:05:21+00:00",
+    "closed_at": "2025-10-16T12:05:18+00:00",
+    "merged_at": "2025-10-16T12:05:18+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/31",
+    "additions": 153,
+    "deletions": 49,
+    "changed_files": 3,
+    "comments": 6,
+    "review_comments": 0,
+    "commits": 5
+  },
+  {
+    "number": 30,
+    "title": "Configure Git LFS for G-code sample files",
+    "state": "closed",
+    "created_at": "2025-10-16T10:16:19+00:00",
+    "updated_at": "2025-10-16T10:41:31+00:00",
+    "closed_at": "2025-10-16T10:41:28+00:00",
+    "merged_at": "2025-10-16T10:41:28+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/30",
+    "additions": 96,
+    "deletions": 43406,
+    "changed_files": 16,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 5
+  },
+  {
+    "number": 29,
+    "title": "Add checkboxes to visualizer legend with localStorage persistence and improved focus",
+    "state": "closed",
+    "created_at": "2025-10-14T11:21:44+00:00",
+    "updated_at": "2025-10-14T17:13:05+00:00",
+    "closed_at": "2025-10-14T17:12:01+00:00",
+    "merged_at": "2025-10-14T17:12:01+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/29",
+    "additions": 171,
+    "deletions": 14,
+    "changed_files": 2,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 3
+  },
+  {
+    "number": 28,
+    "title": "Fix triangle infill pattern missing lines at 30%, 60%, 90% densities",
+    "state": "closed",
+    "created_at": "2025-10-13T07:41:25+00:00",
+    "updated_at": "2025-10-13T09:10:20+00:00",
+    "closed_at": "2025-10-13T09:10:16+00:00",
+    "merged_at": "2025-10-13T09:10:16+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/28",
+    "additions": 165,
+    "deletions": 6,
+    "changed_files": 2,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 4
+  },
+  {
+    "number": 27,
+    "title": "Add gyroid infill pattern for improved mechanical properties",
+    "state": "closed",
+    "created_at": "2025-10-12T10:18:16+00:00",
+    "updated_at": "2025-10-24T09:33:11+00:00",
+    "closed_at": "2025-10-24T09:33:07+00:00",
+    "merged_at": null,
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/27",
+    "additions": 965,
+    "deletions": 3,
+    "changed_files": 7,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 4
+  },
+  {
+    "number": 26,
+    "title": "Add hexagons infill pattern",
+    "state": "closed",
+    "created_at": "2025-10-12T08:26:56+00:00",
+    "updated_at": "2025-10-12T18:21:38+00:00",
+    "closed_at": "2025-10-12T18:21:33+00:00",
+    "merged_at": "2025-10-12T18:21:33+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/26",
+    "additions": 762,
+    "deletions": 5,
+    "changed_files": 7,
+    "comments": 8,
+    "review_comments": 0,
+    "commits": 8
+  },
+  {
+    "number": 25,
+    "title": "Implement support module with overhang detection, column generation, mesh positioning fixes, and precise polygon-based skin detection with per-layer exposure analysis",
+    "state": "closed",
+    "created_at": "2025-10-12T06:28:44+00:00",
+    "updated_at": "2025-10-16T09:55:30+00:00",
+    "closed_at": "2025-10-16T09:55:26+00:00",
+    "merged_at": "2025-10-16T09:55:26+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/25",
+    "additions": 1632,
+    "deletions": 16,
+    "changed_files": 11,
+    "comments": 31,
+    "review_comments": 0,
+    "commits": 25
+  },
+  {
+    "number": 24,
+    "title": "Implement triangles infill pattern with equilateral triangle tessellation",
+    "state": "closed",
+    "created_at": "2025-10-12T06:03:10+00:00",
+    "updated_at": "2025-10-12T07:24:41+00:00",
+    "closed_at": "2025-10-12T07:24:37+00:00",
+    "merged_at": "2025-10-12T07:24:37+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/24",
+    "additions": 820,
+    "deletions": 17,
+    "changed_files": 6,
+    "comments": 4,
+    "review_comments": 0,
+    "commits": 8
+  },
+  {
+    "number": 23,
+    "title": "Implement TRUE 3D cubic infill pattern with progressive layer shifting",
+    "state": "closed",
+    "created_at": "2025-10-11T15:31:42+00:00",
+    "updated_at": "2025-10-24T09:33:23+00:00",
+    "closed_at": "2025-10-24T09:33:18+00:00",
+    "merged_at": null,
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/23",
+    "additions": 1117,
+    "deletions": 7,
+    "changed_files": 6,
+    "comments": 4,
+    "review_comments": 0,
+    "commits": 9
+  },
+  {
+    "number": 22,
+    "title": "Refactor: Reorganize slicer directory with modular structure for better maintainability and extensibility",
+    "state": "closed",
+    "created_at": "2025-10-11T11:43:58+00:00",
+    "updated_at": "2025-10-11T14:25:42+00:00",
+    "closed_at": "2025-10-11T14:25:16+00:00",
+    "merged_at": "2025-10-11T14:25:16+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/22",
+    "additions": 2687,
+    "deletions": 2078,
+    "changed_files": 16,
+    "comments": 4,
+    "review_comments": 0,
+    "commits": 7
+  },
+  {
+    "number": 21,
+    "title": "Add grid infill generation with variable density support",
+    "state": "closed",
+    "created_at": "2025-10-10T19:03:51+00:00",
+    "updated_at": "2025-10-11T09:14:27+00:00",
+    "closed_at": "2025-10-11T09:14:24+00:00",
+    "merged_at": "2025-10-11T09:14:24+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/21",
+    "additions": 657,
+    "deletions": 2,
+    "changed_files": 2,
+    "comments": 8,
+    "review_comments": 0,
+    "commits": 6
+  },
+  {
+    "number": 20,
+    "title": "Implement skin generation for bottom and top layers with Cura-style pattern and refactor verbose comment patterns",
+    "state": "closed",
+    "created_at": "2025-10-10T05:17:12+00:00",
+    "updated_at": "2025-10-10T15:59:04+00:00",
+    "closed_at": "2025-10-10T15:59:00+00:00",
+    "merged_at": "2025-10-10T15:58:59+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/20",
+    "additions": 783,
+    "deletions": 143,
+    "changed_files": 4,
+    "comments": 10,
+    "review_comments": 0,
+    "commits": 11
+  },
+  {
+    "number": 19,
+    "title": "Add WASD, arrow key, and double-click camera controls to G-code visualizer",
+    "state": "closed",
+    "created_at": "2025-10-08T15:56:09+00:00",
+    "updated_at": "2025-10-09T06:21:50+00:00",
+    "closed_at": "2025-10-09T06:21:47+00:00",
+    "merged_at": "2025-10-09T06:21:46+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/19",
+    "additions": 210,
+    "deletions": 9,
+    "changed_files": 3,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 4
+  },
+  {
+    "number": 18,
+    "title": "Add space-themed landing page with warp background and tool navigation",
+    "state": "closed",
+    "created_at": "2025-10-06T11:21:05+00:00",
+    "updated_at": "2025-10-06T13:06:16+00:00",
+    "closed_at": "2025-10-06T13:06:13+00:00",
+    "merged_at": "2025-10-06T13:06:13+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/18",
+    "additions": 357,
+    "deletions": 7,
+    "changed_files": 3,
+    "comments": 4,
+    "review_comments": 0,
+    "commits": 6
+  },
+  {
+    "number": 17,
+    "title": "Implement main slice() function with Polytree integration, configurable multi-wall printing, and build plate centering",
+    "state": "closed",
+    "created_at": "2025-10-05T11:52:46+00:00",
+    "updated_at": "2025-10-10T05:11:01+00:00",
+    "closed_at": "2025-10-10T05:10:57+00:00",
+    "merged_at": "2025-10-10T05:10:57+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/17",
+    "additions": 2002,
+    "deletions": 148,
+    "changed_files": 20,
+    "comments": 29,
+    "review_comments": 0,
+    "commits": 26
+  },
+  {
+    "number": 16,
+    "title": "Enhance G-code visualizer with Cura-style TYPE comment support and color-coded visualization",
+    "state": "closed",
+    "created_at": "2025-10-05T04:16:17+00:00",
+    "updated_at": "2025-10-05T10:33:02+00:00",
+    "closed_at": "2025-10-05T10:32:58+00:00",
+    "merged_at": "2025-10-05T10:32:58+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/16",
+    "additions": 420,
+    "deletions": 54,
+    "changed_files": 4,
+    "comments": 4,
+    "review_comments": 0,
+    "commits": 6
+  },
+  {
+    "number": 15,
+    "title": "Add G-code Visualizer web app and reorganize examples directory",
+    "state": "closed",
+    "created_at": "2025-10-02T12:44:54+00:00",
+    "updated_at": "2025-10-03T10:12:54+00:00",
+    "closed_at": "2025-10-03T10:12:51+00:00",
+    "merged_at": "2025-10-03T10:12:51+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/15",
+    "additions": 3347,
+    "deletions": 21,
+    "changed_files": 25,
+    "comments": 8,
+    "review_comments": 0,
+    "commits": 8
+  },
+  {
+    "number": 14,
+    "title": "Add file loader and G-code exporter support for 3D printing formats with test resources",
+    "state": "closed",
+    "created_at": "2025-10-02T09:42:08+00:00",
+    "updated_at": "2025-10-03T13:54:01+00:00",
+    "closed_at": "2025-10-03T13:53:55+00:00",
+    "merged_at": "2025-10-03T13:53:55+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/14",
+    "additions": 30387,
+    "deletions": 49,
+    "changed_files": 61,
+    "comments": 16,
+    "review_comments": 0,
+    "commits": 15
+  },
+  {
+    "number": 13,
+    "title": "Add pre-print and post-print sequence methods with test strip support, metadata generation, speed-optimized heating, verbose mode, and settings-based API",
+    "state": "closed",
+    "created_at": "2025-10-02T07:52:42+00:00",
+    "updated_at": "2025-10-05T10:23:36+00:00",
+    "closed_at": "2025-10-05T10:23:32+00:00",
+    "merged_at": "2025-10-05T10:23:32+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/13",
+    "additions": 805,
+    "deletions": 7,
+    "changed_files": 6,
+    "comments": 12,
+    "review_comments": 0,
+    "commits": 14
+  },
+  {
+    "number": 12,
+    "title": "Refactor: Extract getters/setters and coders, add testStrip and outline settings, organize tests",
+    "state": "closed",
+    "created_at": "2025-10-02T03:08:02+00:00",
+    "updated_at": "2025-10-02T06:42:55+00:00",
+    "closed_at": "2025-10-02T06:42:47+00:00",
+    "merged_at": "2025-10-02T06:42:47+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/12",
+    "additions": 1130,
+    "deletions": 758,
+    "changed_files": 13,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 5
+  },
+  {
+    "number": 11,
+    "title": "Add slicer configuration issue template, Printer and Filament class libraries with Polyslice integration",
+    "state": "closed",
+    "created_at": "2025-10-01T08:11:31+00:00",
+    "updated_at": "2025-10-01T11:37:16+00:00",
+    "closed_at": "2025-10-01T11:37:12+00:00",
+    "merged_at": "2025-10-01T11:37:12+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/11",
+    "additions": 3128,
+    "deletions": 9,
+    "changed_files": 12,
+    "comments": 9,
+    "review_comments": 0,
+    "commits": 11
+  },
+  {
+    "number": 10,
+    "title": "Add comprehensive 3D printing settings, utility methods, and modular refactored architecture to Polyslice class",
+    "state": "closed",
+    "created_at": "2025-09-29T10:21:43+00:00",
+    "updated_at": "2025-09-30T12:34:26+00:00",
+    "closed_at": "2025-09-30T12:34:21+00:00",
+    "merged_at": "2025-09-30T12:34:21+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/10",
+    "additions": 1629,
+    "deletions": 359,
+    "changed_files": 9,
+    "comments": 10,
+    "review_comments": 0,
+    "commits": 15
+  },
+  {
+    "number": 9,
+    "title": "Fix package name and CI configuration issues",
+    "state": "closed",
+    "created_at": "2025-09-28T12:40:30+00:00",
+    "updated_at": "2025-09-28T17:12:39+00:00",
+    "closed_at": "2025-09-28T17:12:36+00:00",
+    "merged_at": "2025-09-28T17:12:36+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/9",
+    "additions": 86,
+    "deletions": 117,
+    "changed_files": 6,
+    "comments": 6,
+    "review_comments": 0,
+    "commits": 6
+  },
+  {
+    "number": 8,
+    "title": "Convert Polyslice to universal Node.js/browser package with CoffeeScript-first development",
+    "state": "closed",
+    "created_at": "2025-09-27T09:40:24+00:00",
+    "updated_at": "2025-09-28T12:43:41+00:00",
+    "closed_at": "2025-09-28T10:59:17+00:00",
+    "merged_at": "2025-09-28T10:59:17+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/8",
+    "additions": 7381,
+    "deletions": 587,
+    "changed_files": 25,
+    "comments": 6,
+    "review_comments": 0,
+    "commits": 9
+  },
+  {
+    "number": 7,
+    "title": "#6: add G-code streaming feature upon file upload",
+    "state": "closed",
+    "created_at": "2024-05-07T06:27:18+00:00",
+    "updated_at": "2025-09-26T14:49:10+00:00",
+    "closed_at": "2024-05-12T11:57:11+00:00",
+    "merged_at": "2024-05-12T11:57:11+00:00",
+    "user": {
+      "login": "jgphilpott"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/7",
+    "additions": 221,
+    "deletions": 54,
+    "changed_files": 3,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 6
+  },
+  {
+    "number": 5,
+    "title": "#2: add the ability to upload complete G-code files",
+    "state": "closed",
+    "created_at": "2024-04-30T17:57:17+00:00",
+    "updated_at": "2025-09-26T14:49:12+00:00",
+    "closed_at": "2024-04-30T18:37:32+00:00",
+    "merged_at": "2024-04-30T18:37:32+00:00",
+    "user": {
+      "login": "jgphilpott"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/5",
+    "additions": 61,
+    "deletions": 3,
+    "changed_files": 4,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 3
+  },
+  {
+    "number": 4,
+    "title": "#2: add the ability to upload complete G-code files",
+    "state": "closed",
+    "created_at": "2024-04-30T11:54:13+00:00",
+    "updated_at": "2024-04-30T17:55:36+00:00",
+    "closed_at": "2024-04-30T17:55:36+00:00",
+    "merged_at": null,
+    "user": {
+      "login": "jgphilpott"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/4",
+    "additions": 59,
+    "deletions": 3,
+    "changed_files": 4,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 3,
+    "title": "#1: response data comes in small chunks making it hard to read",
+    "state": "closed",
+    "created_at": "2024-04-29T14:47:42+00:00",
+    "updated_at": "2025-09-26T14:49:13+00:00",
+    "closed_at": "2024-04-30T10:24:36+00:00",
+    "merged_at": "2024-04-30T10:24:35+00:00",
+    "user": {
+      "login": "jgphilpott"
+    },
+    "html_url": "https://github.com/jgphilpott/polyslice/pull/3",
+    "additions": 159,
+    "deletions": 111,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 4
+  }
+]
