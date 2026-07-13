@@ -17,7 +17,7 @@ python -m venv venv
 ### 3. Activate Virtual Environment
 
 ```
-.\venv\Scripts\Activate.ps1
+source venv/bin/activate
 ```
 
 ### 4. Variable Naming Consistency
