@@ -1,0 +1,2776 @@
+[
+  {
+    "number": 177,
+    "title": "npm(deps-dev): bump electron from 43.0.0 to 43.1.0",
+    "state": "closed",
+    "created_at": "2026-07-13T17:35:04+00:00",
+    "updated_at": "2026-07-14T05:57:36+00:00",
+    "closed_at": "2026-07-14T05:57:33+00:00",
+    "merged_at": "2026-07-14T05:57:33+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/177",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 176,
+    "title": "npm(deps): bump three-mesh-bvh from 0.9.10 to 0.9.11",
+    "state": "closed",
+    "created_at": "2026-07-13T17:34:37+00:00",
+    "updated_at": "2026-07-14T05:57:23+00:00",
+    "closed_at": "2026-07-14T05:57:20+00:00",
+    "merged_at": "2026-07-14T05:57:20+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/176",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 175,
+    "title": "npm(deps): bump mongoose from 9.7.3 to 9.7.4",
+    "state": "closed",
+    "created_at": "2026-07-13T17:34:28+00:00",
+    "updated_at": "2026-07-14T05:57:10+00:00",
+    "closed_at": "2026-07-14T05:57:07+00:00",
+    "merged_at": "2026-07-14T05:57:07+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/175",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 174,
+    "title": "npm(deps): bump three from 0.185.0 to 0.185.1",
+    "state": "closed",
+    "created_at": "2026-07-06T17:34:33+00:00",
+    "updated_at": "2026-07-09T08:13:27+00:00",
+    "closed_at": "2026-07-09T08:13:24+00:00",
+    "merged_at": "2026-07-09T08:13:24+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/174",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 172,
+    "title": "fix: pin sass to ~1.78.0 to resolve ERR_REQUIRE_ESM on Node 18/20",
+    "state": "closed",
+    "created_at": "2026-07-01T16:27:42+00:00",
+    "updated_at": "2026-07-01T16:32:12+00:00",
+    "closed_at": "2026-07-01T16:32:06+00:00",
+    "merged_at": "2026-07-01T16:32:06+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/172",
+    "additions": 11,
+    "deletions": 391,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 170,
+    "title": "Bump actions/checkout from 6 to 7",
+    "state": "closed",
+    "created_at": "2026-06-22T17:33:49+00:00",
+    "updated_at": "2026-07-01T06:43:02+00:00",
+    "closed_at": "2026-07-01T06:42:59+00:00",
+    "merged_at": "2026-07-01T06:42:59+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/170",
+    "additions": 4,
+    "deletions": 4,
+    "changed_files": 3,
+    "comments": 1,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 169,
+    "title": "npm(deps-dev): bump form-data from 4.0.5 to 4.0.6",
+    "state": "closed",
+    "created_at": "2026-06-21T15:18:42+00:00",
+    "updated_at": "2026-07-01T06:43:15+00:00",
+    "closed_at": "2026-07-01T06:43:08+00:00",
+    "merged_at": "2026-07-01T06:43:08+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/169",
+    "additions": 8,
+    "deletions": 8,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 168,
+    "title": "npm(deps): bump undici from 7.25.0 to 7.28.0",
+    "state": "closed",
+    "created_at": "2026-06-20T08:49:19+00:00",
+    "updated_at": "2026-07-01T06:42:12+00:00",
+    "closed_at": "2026-07-01T06:42:09+00:00",
+    "merged_at": "2026-07-01T06:42:09+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/168",
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 167,
+    "title": "npm(deps-dev): bump esbuild from 0.28.0 to 0.28.1",
+    "state": "closed",
+    "created_at": "2026-06-13T01:02:59+00:00",
+    "updated_at": "2026-07-01T06:43:29+00:00",
+    "closed_at": "2026-07-01T06:43:27+00:00",
+    "merged_at": "2026-07-01T06:43:27+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/167",
+    "additions": 109,
+    "deletions": 109,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 166,
+    "title": "npm(deps-dev): bump electron-builder from 26.8.1 to 26.15.3",
+    "state": "closed",
+    "created_at": "2026-06-08T17:35:16+00:00",
+    "updated_at": "2026-07-01T06:41:42+00:00",
+    "closed_at": "2026-07-01T06:41:39+00:00",
+    "merged_at": "2026-07-01T06:41:39+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/166",
+    "additions": 485,
+    "deletions": 1472,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 165,
+    "title": "npm(deps-dev): bump npm-check-updates from 22.2.1 to 22.2.3",
+    "state": "closed",
+    "created_at": "2026-06-08T17:35:03+00:00",
+    "updated_at": "2026-07-01T06:41:17+00:00",
+    "closed_at": "2026-07-01T06:41:14+00:00",
+    "merged_at": "2026-07-01T06:41:14+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/165",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 164,
+    "title": "npm(deps-dev): bump electron from 42.3.2 to 42.3.3",
+    "state": "closed",
+    "created_at": "2026-06-08T17:34:51+00:00",
+    "updated_at": "2026-07-01T06:39:47+00:00",
+    "closed_at": "2026-07-01T06:39:44+00:00",
+    "merged_at": "2026-07-01T06:39:44+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/164",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 163,
+    "title": "npm(deps-dev): bump electron-updater from 6.8.3 to 6.8.9",
+    "state": "closed",
+    "created_at": "2026-06-08T17:34:20+00:00",
+    "updated_at": "2026-07-01T06:39:22+00:00",
+    "closed_at": "2026-07-01T06:39:19+00:00",
+    "merged_at": "2026-07-01T06:39:19+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/163",
+    "additions": 20,
+    "deletions": 6,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 162,
+    "title": "npm(deps-dev): bump mongodb-memory-server from 11.1.0 to 11.2.0",
+    "state": "closed",
+    "created_at": "2026-06-03T01:44:00+00:00",
+    "updated_at": "2026-06-03T11:26:20+00:00",
+    "closed_at": "2026-06-03T11:26:12+00:00",
+    "merged_at": "2026-06-03T11:26:12+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/162",
+    "additions": 31,
+    "deletions": 32,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 161,
+    "title": "npm(deps): bump mongoose from 9.6.2 to 9.6.3",
+    "state": "closed",
+    "created_at": "2026-06-03T01:43:50+00:00",
+    "updated_at": "2026-06-03T11:25:53+00:00",
+    "closed_at": "2026-06-03T11:25:49+00:00",
+    "merged_at": "2026-06-03T11:25:49+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/161",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 159,
+    "title": "npm(deps-dev): bump electron from 42.2.0 to 42.3.2",
+    "state": "closed",
+    "created_at": "2026-06-03T01:43:26+00:00",
+    "updated_at": "2026-06-03T11:24:52+00:00",
+    "closed_at": "2026-06-03T11:24:48+00:00",
+    "merged_at": "2026-06-03T11:24:48+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/159",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 158,
+    "title": "npm(deps-dev): bump tmp from 0.2.5 to 0.2.7",
+    "state": "closed",
+    "created_at": "2026-05-28T03:34:39+00:00",
+    "updated_at": "2026-06-03T11:25:15+00:00",
+    "closed_at": "2026-06-03T11:25:11+00:00",
+    "merged_at": "2026-06-03T11:25:11+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/158",
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 157,
+    "title": "npm(deps-dev): bump npm-check-updates from 22.2.0 to 22.2.1",
+    "state": "closed",
+    "created_at": "2026-05-25T23:29:32+00:00",
+    "updated_at": "2026-05-26T05:00:05+00:00",
+    "closed_at": "2026-05-26T05:00:02+00:00",
+    "merged_at": "2026-05-26T05:00:02+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/157",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 156,
+    "title": "npm(deps): bump ws from 8.20.1 to 8.21.0",
+    "state": "closed",
+    "created_at": "2026-05-25T23:29:21+00:00",
+    "updated_at": "2026-05-26T04:59:50+00:00",
+    "closed_at": "2026-05-26T04:59:47+00:00",
+    "merged_at": "2026-05-26T04:59:47+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/156",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 154,
+    "title": "npm(deps-dev): bump qs from 6.14.2 to 6.15.2",
+    "state": "closed",
+    "created_at": "2026-05-23T12:23:13+00:00",
+    "updated_at": "2026-05-26T04:58:33+00:00",
+    "closed_at": "2026-05-26T04:58:30+00:00",
+    "merged_at": "2026-05-26T04:58:30+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/154",
+    "additions": 3,
+    "deletions": 50,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 153,
+    "title": "npm(deps-dev): bump electron from 42.0.1 to 42.1.0",
+    "state": "closed",
+    "created_at": "2026-05-19T03:02:52+00:00",
+    "updated_at": "2026-05-20T05:08:26+00:00",
+    "closed_at": "2026-05-20T05:08:23+00:00",
+    "merged_at": "2026-05-20T05:08:23+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/153",
+    "additions": 5,
+    "deletions": 29,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 152,
+    "title": "npm(deps-dev): bump jest-environment-jsdom from 30.3.0 to 30.4.1",
+    "state": "closed",
+    "created_at": "2026-05-12T00:50:52+00:00",
+    "updated_at": "2026-05-13T04:35:11+00:00",
+    "closed_at": "2026-05-13T04:35:08+00:00",
+    "merged_at": "2026-05-13T04:35:08+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/152",
+    "additions": 408,
+    "deletions": 18,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 151,
+    "title": "npm(deps): bump mongoose from 9.6.1 to 9.6.2",
+    "state": "closed",
+    "created_at": "2026-05-12T00:50:45+00:00",
+    "updated_at": "2026-05-13T04:35:01+00:00",
+    "closed_at": "2026-05-13T04:34:58+00:00",
+    "merged_at": "2026-05-13T04:34:58+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/151",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 149,
+    "title": "npm(deps-dev): bump electron from 42.0.0 to 42.0.1",
+    "state": "closed",
+    "created_at": "2026-05-12T00:50:13+00:00",
+    "updated_at": "2026-05-13T04:34:17+00:00",
+    "closed_at": "2026-05-13T04:34:14+00:00",
+    "merged_at": "2026-05-13T04:34:14+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/149",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 148,
+    "title": "Bump node from 25-alpine to 26-alpine",
+    "state": "closed",
+    "created_at": "2026-05-12T00:46:10+00:00",
+    "updated_at": "2026-05-13T04:34:03+00:00",
+    "closed_at": "2026-05-13T04:34:00+00:00",
+    "merged_at": "2026-05-13T04:34:00+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/148",
+    "additions": 4,
+    "deletions": 4,
+    "changed_files": 2,
+    "comments": 1,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 147,
+    "title": "npm(deps): bump ip-address from 10.1.0 to 10.2.0",
+    "state": "closed",
+    "created_at": "2026-05-07T01:57:46+00:00",
+    "updated_at": "2026-05-07T05:26:03+00:00",
+    "closed_at": "2026-05-07T05:25:59+00:00",
+    "merged_at": "2026-05-07T05:25:59+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/147",
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 146,
+    "title": "npm(deps): bump mongoose from 9.5.0 to 9.6.1",
+    "state": "closed",
+    "created_at": "2026-05-04T22:08:38+00:00",
+    "updated_at": "2026-05-07T05:25:40+00:00",
+    "closed_at": "2026-05-07T05:25:37+00:00",
+    "merged_at": "2026-05-07T05:25:37+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/146",
+    "additions": 10,
+    "deletions": 10,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 144,
+    "title": "npm(deps-dev): bump mongodb-memory-server from 11.0.1 to 11.1.0",
+    "state": "closed",
+    "created_at": "2026-05-04T22:08:24+00:00",
+    "updated_at": "2026-05-07T05:25:09+00:00",
+    "closed_at": "2026-05-07T05:25:06+00:00",
+    "merged_at": "2026-05-07T05:25:06+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/144",
+    "additions": 171,
+    "deletions": 31,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 143,
+    "title": "npm(deps-dev): bump npm-check-updates from 22.0.1 to 22.1.0",
+    "state": "closed",
+    "created_at": "2026-05-04T22:08:12+00:00",
+    "updated_at": "2026-05-07T05:24:55+00:00",
+    "closed_at": "2026-05-07T05:24:51+00:00",
+    "merged_at": "2026-05-07T05:24:51+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/143",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 142,
+    "title": "npm(deps-dev): bump electron from 41.3.0 to 41.5.0",
+    "state": "closed",
+    "created_at": "2026-05-04T22:07:57+00:00",
+    "updated_at": "2026-05-07T05:24:40+00:00",
+    "closed_at": "2026-05-07T05:24:36+00:00",
+    "merged_at": "2026-05-07T05:24:36+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/142",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 141,
+    "title": "npm(deps-dev): bump electron from 41.2.1 to 41.3.0",
+    "state": "closed",
+    "created_at": "2026-04-27T21:36:50+00:00",
+    "updated_at": "2026-04-28T08:25:28+00:00",
+    "closed_at": "2026-04-28T08:25:25+00:00",
+    "merged_at": "2026-04-28T08:25:25+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/141",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 140,
+    "title": "npm(deps-dev): bump npm-check-updates from 21.0.3 to 22.0.1",
+    "state": "closed",
+    "created_at": "2026-04-27T21:36:27+00:00",
+    "updated_at": "2026-04-28T08:25:13+00:00",
+    "closed_at": "2026-04-28T08:25:09+00:00",
+    "merged_at": "2026-04-28T08:25:09+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/140",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 139,
+    "title": "npm(deps-dev): bump jsdom from 29.0.2 to 29.1.0",
+    "state": "closed",
+    "created_at": "2026-04-27T21:36:13+00:00",
+    "updated_at": "2026-04-28T08:24:59+00:00",
+    "closed_at": "2026-04-28T08:24:56+00:00",
+    "merged_at": "2026-04-28T08:24:56+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/139",
+    "additions": 64,
+    "deletions": 39,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 138,
+    "title": "npm(deps-dev): bump @xmldom/xmldom from 0.8.12 to 0.8.13",
+    "state": "closed",
+    "created_at": "2026-04-23T03:34:24+00:00",
+    "updated_at": "2026-04-28T08:24:45+00:00",
+    "closed_at": "2026-04-28T08:24:43+00:00",
+    "merged_at": "2026-04-28T08:24:43+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/138",
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 137,
+    "title": "fix: replace browserify with esbuild to fix CI build failure",
+    "state": "closed",
+    "created_at": "2026-04-21T05:10:54+00:00",
+    "updated_at": "2026-04-21T05:53:14+00:00",
+    "closed_at": "2026-04-21T05:53:10+00:00",
+    "merged_at": "2026-04-21T05:53:10+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/137",
+    "additions": 526,
+    "deletions": 1529,
+    "changed_files": 2,
+    "comments": 2,
+    "review_comments": 3,
+    "commits": 2
+  },
+  {
+    "number": 136,
+    "title": "npm(deps): bump mongoose from 9.4.1 to 9.5.0",
+    "state": "closed",
+    "created_at": "2026-04-20T19:58:55+00:00",
+    "updated_at": "2026-04-21T05:05:35+00:00",
+    "closed_at": "2026-04-21T05:05:32+00:00",
+    "merged_at": "2026-04-21T05:05:32+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/136",
+    "additions": 9,
+    "deletions": 9,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 135,
+    "title": "npm(deps-dev): bump follow-redirects from 1.15.11 to 1.16.0",
+    "state": "closed",
+    "created_at": "2026-04-15T03:58:10+00:00",
+    "updated_at": "2026-04-15T03:59:48+00:00",
+    "closed_at": "2026-04-15T03:59:45+00:00",
+    "merged_at": "2026-04-15T03:59:45+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/135",
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 134,
+    "title": "npm(deps-dev): bump npm-check-updates from 20.0.1 to 20.0.2",
+    "state": "closed",
+    "created_at": "2026-04-13T18:50:38+00:00",
+    "updated_at": "2026-04-15T03:57:20+00:00",
+    "closed_at": "2026-04-15T03:57:17+00:00",
+    "merged_at": "2026-04-15T03:57:17+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/134",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 133,
+    "title": "Bump softprops/action-gh-release from 2 to 3",
+    "state": "closed",
+    "created_at": "2026-04-13T18:49:56+00:00",
+    "updated_at": "2026-04-15T03:57:00+00:00",
+    "closed_at": "2026-04-15T03:56:57+00:00",
+    "merged_at": "2026-04-15T03:56:57+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/133",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "comments": 1,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 132,
+    "title": "npm(deps-dev): bump sass from 1.98.0 to 1.99.0",
+    "state": "closed",
+    "created_at": "2026-04-06T17:37:45+00:00",
+    "updated_at": "2026-04-07T07:08:32+00:00",
+    "closed_at": "2026-04-07T07:08:29+00:00",
+    "merged_at": "2026-04-07T07:08:29+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/132",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 131,
+    "title": "npm(deps-dev): bump electron from 41.1.0 to 41.1.1",
+    "state": "closed",
+    "created_at": "2026-04-06T17:37:33+00:00",
+    "updated_at": "2026-04-07T07:08:53+00:00",
+    "closed_at": "2026-04-07T07:08:50+00:00",
+    "merged_at": "2026-04-07T07:08:50+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/131",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 130,
+    "title": "npm(deps): bump mongoose from 9.3.3 to 9.4.1",
+    "state": "closed",
+    "created_at": "2026-04-06T17:37:12+00:00",
+    "updated_at": "2026-04-07T07:09:01+00:00",
+    "closed_at": "2026-04-07T07:08:59+00:00",
+    "merged_at": "2026-04-07T07:08:58+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/130",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 128,
+    "title": "npm(deps-dev): bump @xmldom/xmldom from 0.8.11 to 0.8.12",
+    "state": "closed",
+    "created_at": "2026-04-01T04:48:53+00:00",
+    "updated_at": "2026-04-01T05:19:28+00:00",
+    "closed_at": "2026-04-01T05:19:26+00:00",
+    "merged_at": "2026-04-01T05:19:25+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/128",
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 127,
+    "title": "npm(deps-dev): bump npm-check-updates from 19.6.5 to 19.6.6",
+    "state": "closed",
+    "created_at": "2026-03-30T19:04:27+00:00",
+    "updated_at": "2026-03-31T05:16:27+00:00",
+    "closed_at": "2026-03-31T05:16:23+00:00",
+    "merged_at": "2026-03-31T05:16:23+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/127",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 126,
+    "title": "npm(deps-dev): bump electron from 41.0.4 to 41.1.0",
+    "state": "closed",
+    "created_at": "2026-03-30T19:04:15+00:00",
+    "updated_at": "2026-03-31T05:16:10+00:00",
+    "closed_at": "2026-03-31T05:16:02+00:00",
+    "merged_at": "2026-03-31T05:16:02+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/126",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 125,
+    "title": "npm(deps): bump picomatch",
+    "state": "closed",
+    "created_at": "2026-03-25T23:53:42+00:00",
+    "updated_at": "2026-03-26T02:53:33+00:00",
+    "closed_at": "2026-03-26T02:53:30+00:00",
+    "merged_at": "2026-03-26T02:53:30+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/125",
+    "additions": 15,
+    "deletions": 15,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 124,
+    "title": "npm(deps-dev): bump electron from 41.0.2 to 41.0.3",
+    "state": "closed",
+    "created_at": "2026-03-23T18:01:50+00:00",
+    "updated_at": "2026-03-26T02:53:24+00:00",
+    "closed_at": "2026-03-26T02:53:21+00:00",
+    "merged_at": "2026-03-26T02:53:21+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/124",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 123,
+    "title": "npm(deps-dev): bump jsdom from 29.0.0 to 29.0.1",
+    "state": "closed",
+    "created_at": "2026-03-23T18:01:31+00:00",
+    "updated_at": "2026-03-26T02:53:15+00:00",
+    "closed_at": "2026-03-26T02:53:12+00:00",
+    "merged_at": "2026-03-26T02:53:12+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/123",
+    "additions": 10,
+    "deletions": 10,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 122,
+    "title": "npm(deps): bump mongoose from 9.3.0 to 9.3.2",
+    "state": "closed",
+    "created_at": "2026-03-23T18:01:25+00:00",
+    "updated_at": "2026-03-26T02:52:58+00:00",
+    "closed_at": "2026-03-26T02:52:54+00:00",
+    "merged_at": "2026-03-26T02:52:54+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/122",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 121,
+    "title": "npm(deps): bump ws from 8.19.0 to 8.20.0",
+    "state": "closed",
+    "created_at": "2026-03-23T18:01:13+00:00",
+    "updated_at": "2026-03-26T02:52:48+00:00",
+    "closed_at": "2026-03-26T02:52:45+00:00",
+    "merged_at": "2026-03-26T02:52:45+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/121",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 120,
+    "title": "npm(deps-dev): bump jsdom from 28.1.0 to 29.0.0",
+    "state": "closed",
+    "created_at": "2026-03-16T18:17:07+00:00",
+    "updated_at": "2026-03-17T13:07:42+00:00",
+    "closed_at": "2026-03-17T13:07:39+00:00",
+    "merged_at": "2026-03-17T13:07:38+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/120",
+    "additions": 95,
+    "deletions": 104,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 119,
+    "title": "npm(deps): bump undici from 7.22.0 to 7.24.1",
+    "state": "closed",
+    "created_at": "2026-03-13T23:50:20+00:00",
+    "updated_at": "2026-03-14T03:44:20+00:00",
+    "closed_at": "2026-03-14T03:44:17+00:00",
+    "merged_at": "2026-03-14T03:44:17+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/119",
+    "additions": 3,
+    "deletions": 27,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 118,
+    "title": "npm(deps-dev): bump tar from 7.5.10 to 7.5.11",
+    "state": "closed",
+    "created_at": "2026-03-11T21:30:29+00:00",
+    "updated_at": "2026-03-11T21:43:48+00:00",
+    "closed_at": "2026-03-11T21:43:45+00:00",
+    "merged_at": "2026-03-11T21:43:45+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/118",
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 117,
+    "title": "npm(deps-dev): bump tar from 7.5.9 to 7.5.10",
+    "state": "closed",
+    "created_at": "2026-03-06T13:10:44+00:00",
+    "updated_at": "2026-03-07T09:46:19+00:00",
+    "closed_at": "2026-03-07T09:46:17+00:00",
+    "merged_at": "2026-03-07T09:46:17+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/117",
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 116,
+    "title": "npm(deps-dev): bump immutable from 5.1.4 to 5.1.5",
+    "state": "closed",
+    "created_at": "2026-03-04T23:34:40+00:00",
+    "updated_at": "2026-03-07T09:46:29+00:00",
+    "closed_at": "2026-03-07T09:46:27+00:00",
+    "merged_at": "2026-03-07T09:46:27+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/116",
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 115,
+    "title": "npm(deps): bump @jgphilpott/polyslice from 26.2.1 to 26.2.2",
+    "state": "closed",
+    "created_at": "2026-03-02T19:30:57+00:00",
+    "updated_at": "2026-03-03T06:05:20+00:00",
+    "closed_at": "2026-03-03T06:05:17+00:00",
+    "merged_at": "2026-03-03T06:05:17+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/115",
+    "additions": 8,
+    "deletions": 8,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 114,
+    "title": "npm(deps-dev): bump electron from 40.6.0 to 40.6.1",
+    "state": "closed",
+    "created_at": "2026-03-02T19:30:48+00:00",
+    "updated_at": "2026-03-03T06:05:06+00:00",
+    "closed_at": "2026-03-03T06:05:03+00:00",
+    "merged_at": "2026-03-03T06:05:03+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/114",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 113,
+    "title": "npm(deps): bump three from 0.183.1 to 0.183.2",
+    "state": "closed",
+    "created_at": "2026-03-02T19:30:23+00:00",
+    "updated_at": "2026-03-03T06:04:47+00:00",
+    "closed_at": "2026-03-03T06:04:44+00:00",
+    "merged_at": "2026-03-03T06:04:44+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/113",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 112,
+    "title": "npm(deps-dev): bump npm-check-updates from 19.4.1 to 19.6.3",
+    "state": "closed",
+    "created_at": "2026-03-02T19:30:13+00:00",
+    "updated_at": "2026-03-03T06:04:39+00:00",
+    "closed_at": "2026-03-03T06:04:36+00:00",
+    "merged_at": "2026-03-03T06:04:36+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/112",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 111,
+    "title": "Bump actions/download-artifact from 7 to 8",
+    "state": "closed",
+    "created_at": "2026-03-02T19:30:05+00:00",
+    "updated_at": "2026-03-03T06:04:22+00:00",
+    "closed_at": "2026-03-03T06:04:20+00:00",
+    "merged_at": "2026-03-03T06:04:20+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/111",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "comments": 1,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 110,
+    "title": "Bump actions/upload-artifact from 6 to 7",
+    "state": "closed",
+    "created_at": "2026-03-02T19:30:01+00:00",
+    "updated_at": "2026-03-03T06:04:14+00:00",
+    "closed_at": "2026-03-03T06:04:11+00:00",
+    "merged_at": "2026-03-03T06:04:11+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/110",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "comments": 1,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 109,
+    "title": "npm(deps-dev): bump minimatch from 3.1.2 to 3.1.5",
+    "state": "closed",
+    "created_at": "2026-02-28T04:09:54+00:00",
+    "updated_at": "2026-03-03T06:04:05+00:00",
+    "closed_at": "2026-03-03T06:04:02+00:00",
+    "merged_at": "2026-03-03T06:04:02+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/109",
+    "additions": 39,
+    "deletions": 39,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 108,
+    "title": "npm(deps-dev): bump tar from 7.5.7 to 7.5.9",
+    "state": "closed",
+    "created_at": "2026-02-18T07:38:56+00:00",
+    "updated_at": "2026-02-18T07:45:56+00:00",
+    "closed_at": "2026-02-18T07:45:53+00:00",
+    "merged_at": "2026-02-18T07:45:53+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/108",
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 107,
+    "title": "npm(deps): bump qs from 6.14.1 to 6.14.2",
+    "state": "closed",
+    "created_at": "2026-02-14T12:46:46+00:00",
+    "updated_at": "2026-02-15T08:40:30+00:00",
+    "closed_at": "2026-02-15T08:40:28+00:00",
+    "merged_at": "2026-02-15T08:40:28+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/107",
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 106,
+    "title": "npm(deps): bump mongoose from 9.1.5 to 9.1.6",
+    "state": "closed",
+    "created_at": "2026-02-09T20:59:12+00:00",
+    "updated_at": "2026-02-10T06:13:09+00:00",
+    "closed_at": "2026-02-10T06:13:05+00:00",
+    "merged_at": "2026-02-10T06:13:05+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/106",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 105,
+    "title": "npm(deps-dev): bump electron from 40.1.0 to 40.2.1",
+    "state": "closed",
+    "created_at": "2026-02-09T20:58:54+00:00",
+    "updated_at": "2026-02-10T06:13:07+00:00",
+    "closed_at": "2026-02-10T06:12:58+00:00",
+    "merged_at": "2026-02-10T06:12:58+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/105",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 104,
+    "title": "npm(deps-dev): bump jsdom from 27.4.0 to 28.0.0",
+    "state": "closed",
+    "created_at": "2026-02-03T00:00:50+00:00",
+    "updated_at": "2026-02-03T10:02:31+00:00",
+    "closed_at": "2026-02-03T10:02:27+00:00",
+    "merged_at": "2026-02-03T10:02:27+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/104",
+    "additions": 93,
+    "deletions": 107,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 103,
+    "title": "npm(deps-dev): bump electron-builder from 26.6.0 to 26.7.0",
+    "state": "closed",
+    "created_at": "2026-02-03T00:00:39+00:00",
+    "updated_at": "2026-02-03T10:02:14+00:00",
+    "closed_at": "2026-02-03T10:02:11+00:00",
+    "merged_at": "2026-02-03T10:02:11+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/103",
+    "additions": 21,
+    "deletions": 21,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 102,
+    "title": "npm(deps): bump tar and electron-builder",
+    "state": "closed",
+    "created_at": "2026-01-28T16:42:43+00:00",
+    "updated_at": "2026-01-29T06:02:02+00:00",
+    "closed_at": "2026-01-29T06:01:58+00:00",
+    "merged_at": "2026-01-29T06:01:58+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/102",
+    "additions": 150,
+    "deletions": 258,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 101,
+    "title": "npm(deps-dev): bump npm-check-updates from 19.3.1 to 19.3.2",
+    "state": "closed",
+    "created_at": "2026-01-26T19:27:39+00:00",
+    "updated_at": "2026-01-29T05:28:31+00:00",
+    "closed_at": "2026-01-29T05:28:28+00:00",
+    "merged_at": "2026-01-29T05:28:28+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/101",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 100,
+    "title": "npm(deps): bump @jgphilpott/polyslice from 26.1.0 to 26.1.1",
+    "state": "closed",
+    "created_at": "2026-01-26T19:27:28+00:00",
+    "updated_at": "2026-01-29T05:28:18+00:00",
+    "closed_at": "2026-01-29T05:28:14+00:00",
+    "merged_at": "2026-01-29T05:28:14+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/100",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 99,
+    "title": "npm(deps): bump lodash from 4.17.21 to 4.17.23",
+    "state": "closed",
+    "created_at": "2026-01-22T00:22:25+00:00",
+    "updated_at": "2026-01-22T08:59:49+00:00",
+    "closed_at": "2026-01-22T08:59:46+00:00",
+    "merged_at": "2026-01-22T08:59:46+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/99",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 97,
+    "title": "npm(deps-dev): bump electron from 39.2.7 to 40.0.0",
+    "state": "closed",
+    "created_at": "2026-01-19T19:22:27+00:00",
+    "updated_at": "2026-01-20T08:42:16+00:00",
+    "closed_at": "2026-01-20T08:42:13+00:00",
+    "merged_at": "2026-01-20T08:42:13+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/97",
+    "additions": 13,
+    "deletions": 13,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 96,
+    "title": "npm(deps): bump three-mesh-bvh from 0.9.5 to 0.9.7",
+    "state": "closed",
+    "created_at": "2026-01-19T19:22:03+00:00",
+    "updated_at": "2026-01-20T08:41:59+00:00",
+    "closed_at": "2026-01-20T08:41:56+00:00",
+    "merged_at": "2026-01-20T08:41:56+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/96",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 95,
+    "title": "npm(deps): bump mongoose from 9.1.3 to 9.1.4",
+    "state": "closed",
+    "created_at": "2026-01-19T19:21:53+00:00",
+    "updated_at": "2026-01-20T08:41:41+00:00",
+    "closed_at": "2026-01-20T08:41:38+00:00",
+    "merged_at": "2026-01-20T08:41:38+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/95",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 94,
+    "title": "npm(deps): bump jquery from 3.7.1 to 4.0.0",
+    "state": "closed",
+    "created_at": "2026-01-19T19:21:44+00:00",
+    "updated_at": "2026-01-20T08:41:24+00:00",
+    "closed_at": "2026-01-20T08:41:21+00:00",
+    "merged_at": "2026-01-20T08:41:21+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/94",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 93,
+    "title": "npm(deps): bump mongoose from 9.1.2 to 9.1.3",
+    "state": "closed",
+    "created_at": "2026-01-12T21:40:31+00:00",
+    "updated_at": "2026-01-14T04:57:15+00:00",
+    "closed_at": "2026-01-14T04:57:12+00:00",
+    "merged_at": "2026-01-14T04:57:12+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/93",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 92,
+    "title": "npm(deps): bump three-mesh-bvh from 0.9.4 to 0.9.5",
+    "state": "closed",
+    "created_at": "2026-01-12T21:40:15+00:00",
+    "updated_at": "2026-01-14T04:57:04+00:00",
+    "closed_at": "2026-01-14T04:57:00+00:00",
+    "merged_at": "2026-01-14T04:57:00+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/92",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 90,
+    "title": "npm(deps): bump @jgphilpott/polyslice from 25.12.9 to 26.1.0",
+    "state": "closed",
+    "created_at": "2026-01-12T21:40:00+00:00",
+    "updated_at": "2026-01-14T04:56:23+00:00",
+    "closed_at": "2026-01-14T04:56:19+00:00",
+    "merged_at": "2026-01-14T04:56:19+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/90",
+    "additions": 10,
+    "deletions": 10,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 89,
+    "title": "npm(deps-dev): bump npm-check-updates from 19.2.1 to 19.3.1",
+    "state": "closed",
+    "created_at": "2026-01-05T17:57:44+00:00",
+    "updated_at": "2026-01-07T06:11:14+00:00",
+    "closed_at": "2026-01-07T06:11:10+00:00",
+    "merged_at": "2026-01-07T06:11:10+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/89",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 88,
+    "title": "npm(deps): bump mongoose from 9.1.1 to 9.1.2",
+    "state": "closed",
+    "created_at": "2026-01-05T17:57:34+00:00",
+    "updated_at": "2026-01-07T06:11:03+00:00",
+    "closed_at": "2026-01-07T06:10:59+00:00",
+    "merged_at": "2026-01-07T06:10:59+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/88",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 87,
+    "title": "npm(deps): bump qs from 6.14.0 to 6.14.1",
+    "state": "closed",
+    "created_at": "2026-01-01T19:23:12+00:00",
+    "updated_at": "2026-01-03T08:50:28+00:00",
+    "closed_at": "2026-01-03T08:50:25+00:00",
+    "merged_at": "2026-01-03T08:50:25+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/87",
+    "additions": 15,
+    "deletions": 18,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 86,
+    "title": "npm(deps-dev): bump electron-builder from 26.3.5 to 26.4.0",
+    "state": "closed",
+    "created_at": "2025-12-22T17:27:42+00:00",
+    "updated_at": "2025-12-26T05:03:44+00:00",
+    "closed_at": "2025-12-26T05:03:41+00:00",
+    "merged_at": "2025-12-26T05:03:41+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/86",
+    "additions": 37,
+    "deletions": 41,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 84,
+    "title": "npm(deps-dev): bump electron from 39.2.6 to 39.2.7",
+    "state": "closed",
+    "created_at": "2025-12-15T18:02:53+00:00",
+    "updated_at": "2025-12-17T03:59:19+00:00",
+    "closed_at": "2025-12-17T03:59:16+00:00",
+    "merged_at": "2025-12-17T03:59:16+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/84",
+    "additions": 18,
+    "deletions": 20,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 83,
+    "title": "npm(deps): bump @jgphilpott/polyslice from 25.12.0 to 25.12.8",
+    "state": "closed",
+    "created_at": "2025-12-15T18:02:25+00:00",
+    "updated_at": "2025-12-17T03:58:58+00:00",
+    "closed_at": "2025-12-17T03:58:54+00:00",
+    "merged_at": "2025-12-17T03:58:54+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/83",
+    "additions": 41,
+    "deletions": 26,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 82,
+    "title": "npm(deps-dev): bump sass from 1.95.0 to 1.96.0",
+    "state": "closed",
+    "created_at": "2025-12-15T18:02:16+00:00",
+    "updated_at": "2025-12-17T03:59:27+00:00",
+    "closed_at": "2025-12-17T03:58:34+00:00",
+    "merged_at": "2025-12-17T03:58:34+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/82",
+    "additions": 18,
+    "deletions": 20,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 81,
+    "title": "npm(deps-dev): bump npm-check-updates from 19.1.2 to 19.2.0",
+    "state": "closed",
+    "created_at": "2025-12-15T18:02:07+00:00",
+    "updated_at": "2025-12-17T03:58:12+00:00",
+    "closed_at": "2025-12-17T03:58:09+00:00",
+    "merged_at": "2025-12-17T03:58:09+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/81",
+    "additions": 18,
+    "deletions": 20,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 80,
+    "title": "Bump actions/download-artifact from 6 to 7",
+    "state": "closed",
+    "created_at": "2025-12-15T18:01:36+00:00",
+    "updated_at": "2025-12-17T03:57:56+00:00",
+    "closed_at": "2025-12-17T03:57:50+00:00",
+    "merged_at": "2025-12-17T03:57:50+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/80",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "comments": 1,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 79,
+    "title": "Bump actions/upload-artifact from 5 to 6",
+    "state": "closed",
+    "created_at": "2025-12-15T18:01:33+00:00",
+    "updated_at": "2025-12-17T03:57:28+00:00",
+    "closed_at": "2025-12-17T03:57:24+00:00",
+    "merged_at": "2025-12-17T03:57:24+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/79",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "comments": 1,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 78,
+    "title": "npm(deps-dev): bump jsdom from 27.2.0 to 27.3.0",
+    "state": "closed",
+    "created_at": "2025-12-08T17:28:29+00:00",
+    "updated_at": "2025-12-09T07:21:35+00:00",
+    "closed_at": "2025-12-09T07:21:30+00:00",
+    "merged_at": "2025-12-09T07:21:30+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/78",
+    "additions": 100,
+    "deletions": 49,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 77,
+    "title": "npm(deps): bump @jgphilpott/polyslice from 25.11.1 to 25.12.0",
+    "state": "closed",
+    "created_at": "2025-12-08T17:28:21+00:00",
+    "updated_at": "2025-12-09T07:21:14+00:00",
+    "closed_at": "2025-12-09T07:21:11+00:00",
+    "merged_at": "2025-12-09T07:21:11+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/77",
+    "additions": 18,
+    "deletions": 19,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 76,
+    "title": "npm(deps-dev): bump electron-builder from 26.3.3 to 26.3.5",
+    "state": "closed",
+    "created_at": "2025-12-08T17:28:06+00:00",
+    "updated_at": "2025-12-09T07:20:55+00:00",
+    "closed_at": "2025-12-09T07:20:51+00:00",
+    "merged_at": "2025-12-09T07:20:51+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/76",
+    "additions": 48,
+    "deletions": 51,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 75,
+    "title": "npm(deps-dev): bump express from 5.1.0 to 5.2.1",
+    "state": "closed",
+    "created_at": "2025-12-01T21:08:35+00:00",
+    "updated_at": "2025-12-03T04:32:35+00:00",
+    "closed_at": "2025-12-03T04:32:32+00:00",
+    "merged_at": "2025-12-03T04:32:32+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/75",
+    "additions": 67,
+    "deletions": 52,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 74,
+    "title": "npm(deps): bump three-mesh-bvh from 0.9.2 to 0.9.3",
+    "state": "closed",
+    "created_at": "2025-12-01T20:33:54+00:00",
+    "updated_at": "2025-12-03T04:32:12+00:00",
+    "closed_at": "2025-12-03T04:32:09+00:00",
+    "merged_at": "2025-12-03T04:32:09+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/74",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 72,
+    "title": "npm(deps-dev): bump electron-builder from 26.3.0 to 26.3.3",
+    "state": "closed",
+    "created_at": "2025-12-01T20:33:33+00:00",
+    "updated_at": "2025-12-03T04:31:50+00:00",
+    "closed_at": "2025-12-03T04:31:47+00:00",
+    "merged_at": "2025-12-03T04:31:47+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/72",
+    "additions": 32,
+    "deletions": 33,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 71,
+    "title": "npm(deps-dev): bump electron from 39.2.3 to 39.2.4",
+    "state": "closed",
+    "created_at": "2025-12-01T20:33:17+00:00",
+    "updated_at": "2025-12-02T07:38:01+00:00",
+    "closed_at": "2025-12-02T07:37:58+00:00",
+    "merged_at": "2025-12-02T07:37:58+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/71",
+    "additions": 18,
+    "deletions": 19,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 70,
+    "title": "npm(deps): bump @jgphilpott/polyslice from 25.11.0 to 25.11.1",
+    "state": "closed",
+    "created_at": "2025-11-24T18:21:07+00:00",
+    "updated_at": "2025-11-25T06:59:20+00:00",
+    "closed_at": "2025-11-25T06:59:12+00:00",
+    "merged_at": "2025-11-25T06:59:12+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/70",
+    "additions": 54,
+    "deletions": 20,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 69,
+    "title": "npm(deps-dev): bump electron-builder from 26.2.0 to 26.3.0",
+    "state": "closed",
+    "created_at": "2025-11-24T18:20:59+00:00",
+    "updated_at": "2025-11-25T06:59:12+00:00",
+    "closed_at": "2025-11-25T06:59:05+00:00",
+    "merged_at": "2025-11-25T06:59:05+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/69",
+    "additions": 75,
+    "deletions": 127,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 68,
+    "title": "Bump actions/checkout from 5 to 6",
+    "state": "closed",
+    "created_at": "2025-11-24T18:14:56+00:00",
+    "updated_at": "2025-11-25T06:58:26+00:00",
+    "closed_at": "2025-11-25T06:58:19+00:00",
+    "merged_at": "2025-11-25T06:58:19+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/68",
+    "additions": 4,
+    "deletions": 4,
+    "changed_files": 3,
+    "comments": 1,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 67,
+    "title": "Simplify CI workflows to pass npm test reliably",
+    "state": "closed",
+    "created_at": "2025-11-23T05:36:02+00:00",
+    "updated_at": "2025-11-23T06:01:45+00:00",
+    "closed_at": "2025-11-23T06:01:42+00:00",
+    "merged_at": "2025-11-23T06:01:42+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/67",
+    "additions": 63,
+    "deletions": 54,
+    "changed_files": 5,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 3
+  },
+  {
+    "number": 66,
+    "title": "Fix CI security audit failure by downgrading jest to stable release",
+    "state": "closed",
+    "created_at": "2025-11-18T10:59:10+00:00",
+    "updated_at": "2025-11-18T11:25:51+00:00",
+    "closed_at": "2025-11-18T11:25:47+00:00",
+    "merged_at": "2025-11-18T11:25:47+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/66",
+    "additions": 1852,
+    "deletions": 2159,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 2
+  },
+  {
+    "number": 65,
+    "title": "npm(deps-dev): bump js-yaml from 3.14.1 to 3.14.2",
+    "state": "closed",
+    "created_at": "2025-11-17T19:20:15+00:00",
+    "updated_at": "2025-11-18T10:37:38+00:00",
+    "closed_at": "2025-11-18T10:37:34+00:00",
+    "merged_at": "2025-11-18T10:37:33+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/65",
+    "additions": 6,
+    "deletions": 6,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 64,
+    "title": "npm(deps-dev): bump electron from 39.1.0 to 39.1.1",
+    "state": "closed",
+    "created_at": "2025-11-10T17:53:28+00:00",
+    "updated_at": "2025-11-11T07:02:27+00:00",
+    "closed_at": "2025-11-11T07:02:19+00:00",
+    "merged_at": "2025-11-11T07:02:19+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/64",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 63,
+    "title": "npm(deps): bump three from 0.181.0 to 0.181.1",
+    "state": "closed",
+    "created_at": "2025-11-10T17:53:17+00:00",
+    "updated_at": "2025-11-11T07:02:35+00:00",
+    "closed_at": "2025-11-11T07:02:26+00:00",
+    "merged_at": "2025-11-11T07:02:26+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/63",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 62,
+    "title": "npm(deps-dev): bump sass from 1.93.2 to 1.93.3",
+    "state": "closed",
+    "created_at": "2025-11-03T18:27:58+00:00",
+    "updated_at": "2025-11-04T07:58:01+00:00",
+    "closed_at": "2025-11-04T07:57:56+00:00",
+    "merged_at": "2025-11-04T07:57:56+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/62",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 61,
+    "title": "npm(deps-dev): bump electron from 38.3.0 to 38.4.0",
+    "state": "closed",
+    "created_at": "2025-10-27T18:50:04+00:00",
+    "updated_at": "2025-10-28T09:24:50+00:00",
+    "closed_at": "2025-10-28T09:24:47+00:00",
+    "merged_at": "2025-10-28T09:24:47+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/61",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 60,
+    "title": "npm(deps): bump mongoose from 8.19.1 to 8.19.2",
+    "state": "closed",
+    "created_at": "2025-10-27T18:25:52+00:00",
+    "updated_at": "2025-10-28T09:24:40+00:00",
+    "closed_at": "2025-10-28T09:24:37+00:00",
+    "merged_at": "2025-10-28T09:24:37+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/60",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 59,
+    "title": "Bump actions/download-artifact from 5 to 6",
+    "state": "closed",
+    "created_at": "2025-10-27T18:25:08+00:00",
+    "updated_at": "2025-10-28T09:26:40+00:00",
+    "closed_at": "2025-10-28T09:26:36+00:00",
+    "merged_at": "2025-10-28T09:26:36+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/59",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "comments": 1,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 58,
+    "title": "Bump actions/upload-artifact from 4 to 5",
+    "state": "closed",
+    "created_at": "2025-10-27T18:24:46+00:00",
+    "updated_at": "2025-10-28T09:26:17+00:00",
+    "closed_at": "2025-10-28T09:26:09+00:00",
+    "merged_at": "2025-10-28T09:26:09+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/58",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "comments": 1,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 57,
+    "title": "npm(deps): bump three-mesh-bvh from 0.9.1 to 0.9.2",
+    "state": "closed",
+    "created_at": "2025-10-27T18:19:56+00:00",
+    "updated_at": "2025-10-28T09:23:39+00:00",
+    "closed_at": "2025-10-28T09:23:36+00:00",
+    "merged_at": "2025-10-28T09:23:36+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/57",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 56,
+    "title": "npm(deps-dev): bump mongodb-memory-server from 10.2.2 to 10.2.3",
+    "state": "closed",
+    "created_at": "2025-10-20T17:57:52+00:00",
+    "updated_at": "2025-10-21T10:25:16+00:00",
+    "closed_at": "2025-10-21T10:25:12+00:00",
+    "merged_at": "2025-10-21T10:25:12+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/56",
+    "additions": 24,
+    "deletions": 16,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 55,
+    "title": "npm(deps-dev): bump npm-check-updates from 19.0.0 to 19.1.1",
+    "state": "closed",
+    "created_at": "2025-10-20T17:57:36+00:00",
+    "updated_at": "2025-10-21T10:24:17+00:00",
+    "closed_at": "2025-10-21T10:24:14+00:00",
+    "merged_at": "2025-10-21T10:24:14+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/55",
+    "additions": 20,
+    "deletions": 16,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 54,
+    "title": "Bump github/codeql-action from 3 to 4",
+    "state": "closed",
+    "created_at": "2025-10-20T17:57:19+00:00",
+    "updated_at": "2025-10-21T10:23:08+00:00",
+    "closed_at": "2025-10-21T10:23:05+00:00",
+    "merged_at": "2025-10-21T10:23:05+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/54",
+    "additions": 2,
+    "deletions": 2,
+    "changed_files": 1,
+    "comments": 1,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 53,
+    "title": "npm(deps-dev): bump jsdom from 27.0.0 to 27.0.1",
+    "state": "closed",
+    "created_at": "2025-10-20T17:56:30+00:00",
+    "updated_at": "2025-10-21T10:23:34+00:00",
+    "closed_at": "2025-10-21T10:23:30+00:00",
+    "merged_at": "2025-10-21T10:23:30+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/53",
+    "additions": 43,
+    "deletions": 26,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 52,
+    "title": "npm(deps-dev): bump electron from 38.2.1 to 38.3.0",
+    "state": "closed",
+    "created_at": "2025-10-20T17:55:17+00:00",
+    "updated_at": "2025-10-21T10:23:21+00:00",
+    "closed_at": "2025-10-21T10:23:18+00:00",
+    "merged_at": "2025-10-21T10:23:18+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/52",
+    "additions": 20,
+    "deletions": 16,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 51,
+    "title": "Bump actions/setup-node from 5 to 6",
+    "state": "closed",
+    "created_at": "2025-10-20T17:54:41+00:00",
+    "updated_at": "2025-10-21T10:18:52+00:00",
+    "closed_at": "2025-10-21T10:18:45+00:00",
+    "merged_at": "2025-10-21T10:18:44+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/51",
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 3,
+    "comments": 1,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 50,
+    "title": "Bump node from 24-alpine to 25-alpine",
+    "state": "closed",
+    "created_at": "2025-10-20T17:15:40+00:00",
+    "updated_at": "2025-10-21T10:18:38+00:00",
+    "closed_at": "2025-10-21T10:18:31+00:00",
+    "merged_at": "2025-10-21T10:18:31+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/50",
+    "additions": 4,
+    "deletions": 4,
+    "changed_files": 2,
+    "comments": 1,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 48,
+    "title": "npm(deps-dev): bump electron from 38.2.0 to 38.2.1",
+    "state": "closed",
+    "created_at": "2025-10-06T17:42:02+00:00",
+    "updated_at": "2025-10-07T05:40:58+00:00",
+    "closed_at": "2025-10-07T05:40:55+00:00",
+    "merged_at": "2025-10-07T05:40:55+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/48",
+    "additions": 20,
+    "deletions": 17,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 47,
+    "title": "npm(deps-dev): bump mongodb-memory-server from 10.2.1 to 10.2.2",
+    "state": "closed",
+    "created_at": "2025-10-06T17:41:59+00:00",
+    "updated_at": "2025-10-07T05:40:31+00:00",
+    "closed_at": "2025-10-07T05:40:28+00:00",
+    "merged_at": "2025-10-07T05:40:28+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/47",
+    "additions": 27,
+    "deletions": 24,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 46,
+    "title": "npm(deps): bump @jgphilpott/polytree from 0.1.1 to 0.1.2",
+    "state": "closed",
+    "created_at": "2025-10-06T17:41:43+00:00",
+    "updated_at": "2025-10-07T05:40:17+00:00",
+    "closed_at": "2025-10-07T05:40:14+00:00",
+    "merged_at": "2025-10-07T05:40:14+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/46",
+    "additions": 20,
+    "deletions": 17,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 45,
+    "title": "npm(deps): bump mongoose from 8.18.3 to 8.19.0",
+    "state": "closed",
+    "created_at": "2025-10-06T17:41:39+00:00",
+    "updated_at": "2025-10-07T05:40:09+00:00",
+    "closed_at": "2025-10-07T05:40:03+00:00",
+    "merged_at": "2025-10-07T05:40:03+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/45",
+    "additions": 21,
+    "deletions": 65,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 44,
+    "title": "npm(deps-dev): bump npm-check-updates from 18.3.0 to 19.0.0",
+    "state": "closed",
+    "created_at": "2025-09-29T21:18:50+00:00",
+    "updated_at": "2025-09-30T09:21:46+00:00",
+    "closed_at": "2025-09-30T09:21:37+00:00",
+    "merged_at": "2025-09-30T09:21:37+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/44",
+    "additions": 6,
+    "deletions": 6,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 43,
+    "title": "npm(deps): bump mongoose from 8.18.2 to 8.18.3",
+    "state": "closed",
+    "created_at": "2025-09-29T21:03:31+00:00",
+    "updated_at": "2025-09-30T09:21:34+00:00",
+    "closed_at": "2025-09-30T09:21:26+00:00",
+    "merged_at": "2025-09-30T09:21:26+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/43",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 42,
+    "title": "npm(deps-dev): bump jest from 30.1.3 to 30.2.0",
+    "state": "closed",
+    "created_at": "2025-09-29T20:59:43+00:00",
+    "updated_at": "2025-09-30T09:21:23+00:00",
+    "closed_at": "2025-09-30T09:21:15+00:00",
+    "merged_at": "2025-09-30T09:21:15+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/42",
+    "additions": 6910,
+    "deletions": 4696,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 41,
+    "title": "npm(deps): bump @jgphilpott/polytree from 0.0.9 to 0.1.1",
+    "state": "closed",
+    "created_at": "2025-09-29T20:31:02+00:00",
+    "updated_at": "2025-09-30T09:21:13+00:00",
+    "closed_at": "2025-09-30T09:21:05+00:00",
+    "merged_at": "2025-09-30T09:21:05+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/41",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 40,
+    "title": "npm(deps-dev): bump electron from 38.1.2 to 38.2.0",
+    "state": "closed",
+    "created_at": "2025-09-29T20:31:01+00:00",
+    "updated_at": "2025-09-30T09:21:01+00:00",
+    "closed_at": "2025-09-30T09:20:53+00:00",
+    "merged_at": "2025-09-30T09:20:53+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/40",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 39,
+    "title": "Fix failing UI tests and split into separate forkme.test.coffee and navbar.test.coffee files",
+    "state": "closed",
+    "created_at": "2025-09-24T17:11:16+00:00",
+    "updated_at": "2025-09-24T17:46:07+00:00",
+    "closed_at": "2025-09-24T17:45:59+00:00",
+    "merged_at": "2025-09-24T17:45:59+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/39",
+    "additions": 46,
+    "deletions": 44,
+    "changed_files": 3,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 3
+  },
+  {
+    "number": 38,
+    "title": "Reorganize User model tests and fix typos for better code organization",
+    "state": "closed",
+    "created_at": "2025-09-24T16:35:03+00:00",
+    "updated_at": "2025-09-24T16:54:34+00:00",
+    "closed_at": "2025-09-24T16:54:29+00:00",
+    "merged_at": "2025-09-24T16:54:29+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/38",
+    "additions": 203,
+    "deletions": 204,
+    "changed_files": 3,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 3
+  },
+  {
+    "number": 37,
+    "title": "Complete Jinja to Pug template conversion with consolidated common assets",
+    "state": "closed",
+    "created_at": "2025-09-24T12:50:32+00:00",
+    "updated_at": "2025-09-24T13:35:17+00:00",
+    "closed_at": "2025-09-24T13:35:13+00:00",
+    "merged_at": "2025-09-24T13:35:13+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/37",
+    "additions": 2,
+    "deletions": 6,
+    "changed_files": 4,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 3
+  },
+  {
+    "number": 36,
+    "title": "Bump actions/checkout from 4 to 5",
+    "state": "closed",
+    "created_at": "2025-09-24T12:00:08+00:00",
+    "updated_at": "2025-09-24T13:13:20+00:00",
+    "closed_at": "2025-09-24T13:13:15+00:00",
+    "merged_at": "2025-09-24T13:13:15+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/36",
+    "additions": 5,
+    "deletions": 5,
+    "changed_files": 3,
+    "comments": 1,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 35,
+    "title": "Bump actions/setup-node from 4 to 5",
+    "state": "closed",
+    "created_at": "2025-09-24T12:00:04+00:00",
+    "updated_at": "2025-09-24T13:12:48+00:00",
+    "closed_at": "2025-09-24T13:12:39+00:00",
+    "merged_at": "2025-09-24T13:12:39+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/35",
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 3,
+    "comments": 1,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 34,
+    "title": "Bump node from 18-alpine to 24-alpine",
+    "state": "closed",
+    "created_at": "2025-09-24T12:00:01+00:00",
+    "updated_at": "2025-09-25T06:51:15+00:00",
+    "closed_at": "2025-09-25T06:51:12+00:00",
+    "merged_at": "2025-09-25T06:51:12+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/34",
+    "additions": 4,
+    "deletions": 4,
+    "changed_files": 2,
+    "comments": 1,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 33,
+    "title": "Bump actions/download-artifact from 4 to 5",
+    "state": "closed",
+    "created_at": "2025-09-24T11:59:58+00:00",
+    "updated_at": "2025-09-24T13:11:22+00:00",
+    "closed_at": "2025-09-24T13:11:15+00:00",
+    "merged_at": "2025-09-24T13:11:14+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/33",
+    "additions": 1,
+    "deletions": 1,
+    "changed_files": 1,
+    "comments": 1,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 31,
+    "title": "Comprehensive .github folder review: Enhanced workflows, security, and developer guidelines",
+    "state": "closed",
+    "created_at": "2025-09-24T10:28:51+00:00",
+    "updated_at": "2025-09-24T11:59:45+00:00",
+    "closed_at": "2025-09-24T11:59:11+00:00",
+    "merged_at": "2025-09-24T11:59:11+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/31",
+    "additions": 1266,
+    "deletions": 10,
+    "changed_files": 18,
+    "comments": 1,
+    "review_comments": 0,
+    "commits": 5
+  },
+  {
+    "number": 30,
+    "title": "Comprehensive Docker and Package.json Improvements with Enhanced Documentation and Configuration",
+    "state": "closed",
+    "created_at": "2025-09-24T07:04:38+00:00",
+    "updated_at": "2025-09-24T09:19:33+00:00",
+    "closed_at": "2025-09-24T09:19:28+00:00",
+    "merged_at": "2025-09-24T09:19:28+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/30",
+    "additions": 585,
+    "deletions": 38,
+    "changed_files": 12,
+    "comments": 2,
+    "review_comments": 0,
+    "commits": 5
+  },
+  {
+    "number": 29,
+    "title": "Comprehensive package.json improvements for hybrid web/desktop app",
+    "state": "closed",
+    "created_at": "2025-09-24T06:21:12+00:00",
+    "updated_at": "2025-09-24T06:57:20+00:00",
+    "closed_at": "2025-09-24T06:57:16+00:00",
+    "merged_at": "2025-09-24T06:57:16+00:00",
+    "user": {
+      "login": "Copilot"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/29",
+    "additions": 372,
+    "deletions": 61,
+    "changed_files": 4,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 4
+  },
+  {
+    "number": 28,
+    "title": "Bump electron from 33.0.2 to 35.7.5",
+    "state": "closed",
+    "created_at": "2025-09-04T15:42:49+00:00",
+    "updated_at": "2025-09-05T03:06:42+00:00",
+    "closed_at": "2025-09-05T03:06:34+00:00",
+    "merged_at": "2025-09-05T03:06:34+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/28",
+    "additions": 13,
+    "deletions": 13,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 25,
+    "title": "Bump tmp from 0.2.3 to 0.2.4",
+    "state": "closed",
+    "created_at": "2025-08-06T17:26:16+00:00",
+    "updated_at": "2025-08-07T05:30:03+00:00",
+    "closed_at": "2025-08-07T05:29:55+00:00",
+    "merged_at": "2025-08-07T05:29:55+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/25",
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 24,
+    "title": "Bump form-data from 4.0.1 to 4.0.4",
+    "state": "closed",
+    "created_at": "2025-07-22T12:07:51+00:00",
+    "updated_at": "2025-07-22T12:41:25+00:00",
+    "closed_at": "2025-07-22T12:41:16+00:00",
+    "merged_at": "2025-07-22T12:41:16+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/24",
+    "additions": 21,
+    "deletions": 3,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 23,
+    "title": "Bump brace-expansion from 1.1.11 to 1.1.12",
+    "state": "closed",
+    "created_at": "2025-06-24T06:48:12+00:00",
+    "updated_at": "2025-06-24T06:49:05+00:00",
+    "closed_at": "2025-06-24T06:48:58+00:00",
+    "merged_at": "2025-06-24T06:48:57+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/23",
+    "additions": 21,
+    "deletions": 21,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 22,
+    "title": "Bump pbkdf2 from 3.1.2 to 3.1.3",
+    "state": "closed",
+    "created_at": "2025-06-24T05:10:50+00:00",
+    "updated_at": "2025-06-24T06:47:13+00:00",
+    "closed_at": "2025-06-24T06:47:05+00:00",
+    "merged_at": "2025-06-24T06:47:05+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/22",
+    "additions": 207,
+    "deletions": 60,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 21,
+    "title": "Bump elliptic from 6.6.0 to 6.6.1",
+    "state": "closed",
+    "created_at": "2025-02-15T08:53:32+00:00",
+    "updated_at": "2025-02-24T06:23:46+00:00",
+    "closed_at": "2025-02-24T06:23:38+00:00",
+    "merged_at": "2025-02-24T06:23:38+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/21",
+    "additions": 3,
+    "deletions": 3,
+    "changed_files": 1,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 20,
+    "title": "Bump mongoose from 8.8.3 to 8.9.5",
+    "state": "closed",
+    "created_at": "2025-01-17T06:26:51+00:00",
+    "updated_at": "2025-01-17T07:00:15+00:00",
+    "closed_at": "2025-01-17T07:00:08+00:00",
+    "merged_at": "2025-01-17T07:00:08+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/20",
+    "additions": 16,
+    "deletions": 18,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 19,
+    "title": "Bump path-to-regexp and express",
+    "state": "closed",
+    "created_at": "2024-12-05T23:14:53+00:00",
+    "updated_at": "2024-12-06T05:08:08+00:00",
+    "closed_at": "2024-12-06T05:08:01+00:00",
+    "merged_at": "2024-12-06T05:08:01+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/19",
+    "additions": 13,
+    "deletions": 11,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 18,
+    "title": "Bump mongoose from 8.7.3 to 8.8.3",
+    "state": "closed",
+    "created_at": "2024-12-03T14:24:12+00:00",
+    "updated_at": "2024-12-03T14:31:11+00:00",
+    "closed_at": "2024-12-03T14:31:02+00:00",
+    "merged_at": "2024-12-03T14:31:02+00:00",
+    "user": {
+      "login": "dependabot[bot]"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/18",
+    "additions": 6,
+    "deletions": 54,
+    "changed_files": 2,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 1
+  },
+  {
+    "number": 10,
+    "title": "Ironing Updates",
+    "state": "closed",
+    "created_at": "2023-02-02T20:29:10+00:00",
+    "updated_at": "2024-02-07T15:33:41+00:00",
+    "closed_at": "2024-02-07T15:33:41+00:00",
+    "merged_at": "2024-02-07T15:33:41+00:00",
+    "user": {
+      "login": "jgphilpott"
+    },
+    "html_url": "https://github.com/jgphilpott/polysmith/pull/10",
+    "additions": 16444,
+    "deletions": 4047,
+    "changed_files": 353,
+    "comments": 0,
+    "review_comments": 0,
+    "commits": 190
+  }
+]
